@@ -131,7 +131,7 @@
 ## C# # 
 
 - [duyanming/Anno.Core](https://github.com/duyanming/Anno.Core) - Anno 是一个微服务快速开发框架，底层通讯可选用grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD，插件化开发。
-- [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - 基于 .NET 8 + vue3 实现的极简RBAC权限管理系统后端 后端基于精简后的abp框架，前端基于vue-pure-admin，前端极强的表格框架vxe-table，旨在打造一款最合适二次开发的极简.Net框架
+- [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - Purest Admin 是一套真正意义上前后端分离、深度适配企业RBAC权限体系的通用后台管理系统。依托现代化 .NET 10 技术栈、Vue3 生态前端、强大的工作流引擎，力求降低业务框架搭建门槛，实现一站式、敏捷、高可扩展的企业级后台管理平台。
 - [james-gould/azure-keyvault-emulator](https://github.com/james-gould/azure-keyvault-emulator) - An emulator for Azure Key Vault. Compatible with the Azure Client SDK, runnable with Docker or .NET Aspire.
 - [rsocket/rsocket-net](https://github.com/rsocket/rsocket-net) - .NET implementation of RSocket
 - [davidfowl/YarpTunnelDemo](https://github.com/davidfowl/YarpTunnelDemo) - YARP demo showing how tunneling can be implemented over websockets
@@ -164,7 +164,7 @@
 - [drlivsi/Ocelot.SignalR.Demo](https://github.com/drlivsi/Ocelot.SignalR.Demo) - Example of using the Ocelot Api Gateway and SignalR hubs behind a load balancer with a MassTransit RabbitMQ backplane.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) - Attach the WSL2 virtual machine to a Hyper-V virtual switch.
@@ -208,7 +208,7 @@
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [PawelGerr/Thinktecture.EntityFrameworkCore](https://github.com/PawelGerr/Thinktecture.EntityFrameworkCore) - These libraries extend Entity Framework Core  by a few features to make it easier to work with EF and for easier integration testing or to get more performance in some special cases.
 - [khellang/EFCore.Sqlite.NodaTime](https://github.com/khellang/EFCore.Sqlite.NodaTime) - Adds support for NodaTime types when using SQLite with Entity Framework Core.
-- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 9 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 20, React 19, Vue 3.5, BFF with YARP, NextJs 15, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Ident
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 20, React 19, Vue 3.5, BFF with YARP, NextJs 15, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
 - [RRQM/TouchSocket](https://github.com/RRQM/TouchSocket) - TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues
 - [NickCraver/StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 - [known/Known](https://github.com/known/Known) - Known 是基于 Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架。
@@ -351,7 +351,7 @@
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [dotnet/iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework) - Oqtane is an open-source developer productivity platform for building modern .NET applications that run on Web, Desktop and Mobile.
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework) - Oqtane is an open-source developer productivity platform for building modern .NET applications and websites that run on Web, Desktop and Mobile.
 - [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is an open-source multitenancy middleware library for .NET. It enables tenant resolution, per-tenant app behavior, and per-tenant data isolation.
 - [Dasync/AsyncEnumerable](https://github.com/Dasync/AsyncEnumerable) - Defines IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), ParallelForEachAsync(), and other useful stuff to use with async-await
 - [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) - .NET Components for Externalized Configuration, Database Connectors, Service Discovery, Logging and Distributed Tracing, Application Management, Security, and more.
@@ -494,7 +494,7 @@
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [AppMetrics/AspNetCore](https://github.com/AppMetrics/AspNetCore) - App Metrics Extensions for AspNet Core
 - [doctral/Clean-Architecture-with-ASP.NET-Core](https://github.com/doctral/Clean-Architecture-with-ASP.NET-Core) - 
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 - [medalinouira/ASPNetCore-CleanArchitecture](https://github.com/medalinouira/ASPNetCore-CleanArchitecture) - Clean Architecture project of an ASP.NET Core WEB API provided by my Visual Studio Extension 'AspNetCore.Templates' : https://marketplace.visualstudio.com/items?itemName=mohamedalinouira.AspNetCoreTem
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to s
@@ -1191,7 +1191,7 @@
 - [xingxiaoyiyio/vue2-vux-fitness-project](https://github.com/xingxiaoyiyio/vue2-vux-fitness-project) - vue2.0+vux+vue-router+axios 搭建的简单的移动端项目
 - [didi/cube-ui](https://github.com/didi/cube-ui) - :large_orange_diamond: A fantastic mobile ui lib implement by Vue
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -1444,7 +1444,7 @@
 
 ## MDX 
 
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
 ## Makefile 
@@ -1652,7 +1652,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
-- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2025年10月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,
+- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2025年11月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
@@ -1988,7 +1988,7 @@
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
