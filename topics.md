@@ -2382,7 +2382,7 @@
 ## js 
 
 - [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [jinhuiWong/vux-2.0](https://github.com/jinhuiWong/vux-2.0) - 根据vux修改升级的vux2,基于vue,weui的ui组件库
@@ -4563,7 +4563,6 @@
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [damienbod/AngularWebpackVisualStudio](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for ASP.NET Core, Angular with Webpack and Visual Studio
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [fullstackproltd/AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
 - [funkia/turbine](https://github.com/funkia/turbine) - Purely functional frontend framework for building web applications
