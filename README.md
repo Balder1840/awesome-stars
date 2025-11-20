@@ -354,7 +354,7 @@
 - [dotnet/iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework) - Oqtane is an open-source developer productivity platform for building modern .NET applications and websites that run on Web, Desktop and Mobile.
-- [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is an open-source multitenancy middleware library for .NET. It enables tenant resolution, per-tenant app behavior, and per-tenant data isolation.
+- [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC. It enables tenant resolution, per-tenant app behavior, and per-tenant data isolation.
 - [Dasync/AsyncEnumerable](https://github.com/Dasync/AsyncEnumerable) - Defines IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), ParallelForEachAsync(), and other useful stuff to use with async-await
 - [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) - .NET Components for Externalized Configuration, Database Connectors, Service Discovery, Logging and Distributed Tracing, Application Management, Security, and more.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
@@ -874,7 +874,7 @@
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
-- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
@@ -1057,7 +1057,7 @@
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [javabloger/yuqing](https://github.com/javabloger/yuqing) - 思通舆情 是一款开源免费的舆情系统，支持本地化部署。支持对海量的舆情数据进行多维交叉分析和深度挖掘,为用户户提供全面的舆情数据,专业的舆情分析。
@@ -1136,7 +1136,7 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [IceEnd/Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [Suruat/vue-2-crumbs](https://github.com/Suruat/vue-2-crumbs) - Breadcrumbs plugin for Vue.js 2 framework that allows to select parent route in route meta object with no need of sub-routing
