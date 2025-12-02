@@ -211,7 +211,7 @@
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [PawelGerr/Thinktecture.EntityFrameworkCore](https://github.com/PawelGerr/Thinktecture.EntityFrameworkCore) - These libraries extend Entity Framework Core  by a few features to make it easier to work with EF and for easier integration testing or to get more performance in some special cases.
 - [khellang/EFCore.Sqlite.NodaTime](https://github.com/khellang/EFCore.Sqlite.NodaTime) - Adds support for NodaTime types when using SQLite with Entity Framework Core.
-- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 20, React 19, Vue 3.5, BFF with YARP, NextJs 15, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 20, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
 - [RRQM/TouchSocket](https://github.com/RRQM/TouchSocket) - TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues
 - [NickCraver/StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 - [known/Known](https://github.com/known/Known) - Known 是基于 Blazor 轻量级、跨平台、低代码、易扩展的插件开发框架。
@@ -1261,7 +1261,6 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [jsdrupal/drupal-admin-ui](https://github.com/jsdrupal/drupal-admin-ui) - This is an admin UI for Drupal, built with JavaScript & React. ⬅️✌️➡️
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [yubaolee/OpenAuth.Core](https://github.com/yubaolee/OpenAuth.Core) - .Net Core/.Net 5快速应用开发框架、最好用的权限工作流系统。基于经典领域驱动设计的权限管理及快速开发框架，源于Martin Fowler企业级应用开发思想及最新技术组合（IdentityServer、EF core、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、VUE、Element-ui等）。已成功在docker/jenkins中实施。核心模块包
@@ -2063,6 +2062,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [alibaba/alist](https://github.com/alibaba/alist) - Alibaba Group Unified List Solution.
