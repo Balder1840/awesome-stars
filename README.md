@@ -90,7 +90,7 @@
 - [hsluoyz/WinDump](https://github.com/hsluoyz/WinDump) - A user-mode packet dump software based on Npcap
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [jclehner/nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
-- [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）
+- [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [xiaoqingfengATGH/HomeLede](https://github.com/xiaoqingfengATGH/HomeLede) - An Openwrt firmware for home use scenarios.
@@ -190,7 +190,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
-- [NimblePros/eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model.
+- [NimblePros/eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 10.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model.
 - [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices
 - [ryanxjohnson/http-parser](https://github.com/ryanxjohnson/http-parser) - 
 - [wiresock/ndisapi.net](https://github.com/wiresock/ndisapi.net) - C# Interface for Windows Packet Filter
@@ -1667,7 +1667,7 @@
 - [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [matplotlib/mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [niege365/oracle_arm](https://github.com/niege365/oracle_arm) - oracle arm registration script. 乌龟壳刷ARM脚本
