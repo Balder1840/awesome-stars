@@ -102,6 +102,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -1365,6 +1366,7 @@
 - [khellang/EFCore.Sqlite.NodaTime](https://github.com/khellang/EFCore.Sqlite.NodaTime) - Adds support for NodaTime types when using SQLite with Entity Framework Core.
 - [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
 - [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
+- [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.
 - [soenneker/soenneker.blazor.turnstile](https://github.com/soenneker/soenneker.blazor.turnstile) - A Blazor interop library for Cloudflare Turnstile
 - [MichelJansson/BlazorTurnstile](https://github.com/MichelJansson/BlazorTurnstile) - A Blazor library for Cloudflare Turnstile.
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
@@ -1692,6 +1694,10 @@
 ## gamedev 
 
 - [game1024/Speedy](https://github.com/game1024/Speedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
+
+## generative-ai 
+
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
 
 ## gis 
 
