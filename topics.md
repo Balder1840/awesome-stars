@@ -905,6 +905,8 @@
 
 ## csharp 
 
+- [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
+- [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 - [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par
@@ -1340,6 +1342,7 @@
 
 ## dotnet 
 
+- [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [duyanming/Anno.Core](https://github.com/duyanming/Anno.Core) - Anno 是一个微服务快速开发框架，底层通讯可选用grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD，插件化开发。
 - [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - Purest Admin 是一套真正意义上前后端分离、深度适配企业RBAC权限体系的通用后台管理系统。依托现代化 .NET 10 技术栈、Vue3 生态前端、强大的工作流引擎，力求降低业务框架搭建门槛，实现一站式、敏捷、高可扩展的企业级后台管理平台。
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
@@ -3012,8 +3015,10 @@
 
 ## others 
 
+- [FoundatioFx/Foundatio.Mediator](https://github.com/FoundatioFx/Foundatio.Mediator) - Blazingly fast, convention-based C# mediator powered by source generators and interceptors.
+- [BlueRaja/High-Speed-Priority-Queue-for-C-Sharp](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp) - A C# priority queue optimized for pathfinding applications
 - [TheCodeTraveler/AsyncAwaitBestPractices](https://github.com/TheCodeTraveler/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
-- [v-plugin/vfit](https://github.com/v-plugin/vfit) - Vue 3 的轻量缩放与定位解决方案 保持比例与位置一致，快速适配不同分辨率
+- [v-plugin/vfit](https://github.com/v-plugin/vfit) - vfit.js 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [pillar/trendradar](https://github.com/pillar/trendradar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [OpenDBDiff/OpenDBDiff](https://github.com/OpenDBDiff/OpenDBDiff) - A database comparison tool for Microsoft SQL Server 2005+ that reports schema differences and creates a synchronization script.
@@ -3263,7 +3268,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [antfu/v-lazy-show](https://github.com/antfu/v-lazy-show) - Compile-time directive to lazy initialize v-show for Vue
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
