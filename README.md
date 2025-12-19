@@ -1792,7 +1792,6 @@
 ## Roff 
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -1872,6 +1871,7 @@
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) - A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [RamiKrispin/vscode-python-uv-template](https://github.com/RamiKrispin/vscode-python-uv-template) - A Python Environment Template for VScode with UV
 - [msgre/scratch3](https://github.com/msgre/scratch3) - How to run Scratch 3 localy in Docker (aka one of many solutions for sad Linux mates)
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [armbian/os](https://github.com/armbian/os) - Armbian operating system rolling releases provides automated nightly builds of maintained targets
 - [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
 - [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
