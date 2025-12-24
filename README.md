@@ -382,7 +382,7 @@
 - [neo-project/neo](https://github.com/neo-project/neo) - NEO Smart Economy
 - [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum) - Ethereum .Net cross platform integration library
 - [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) - HttpReports is an APM (application performance monitor) system for .Net Core.
-- [monksoul/Furion](https://github.com/monksoul/Furion) - Make .NET development easier, more versatile, and more popular.
+- [monksoul/Furion](https://github.com/monksoul/Furion) - 让 .NET 开发更简单，更通用，更流行。
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [microsoft/Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) - A library to provide pooling for .NET MemoryStream objects to improve application performance.
@@ -1101,7 +1101,7 @@
 - [claudioc/jingo](https://github.com/claudioc/jingo) - Node.js based Wiki
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
-- [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
+- [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  AI Empowerment
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Xabaril/Esquio](https://github.com/Xabaril/Esquio) - Esquio is a Feature Toggle Library for .NET Developers.
