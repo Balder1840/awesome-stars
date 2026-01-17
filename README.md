@@ -140,6 +140,7 @@
 - [TiCodeX/SQLSchemaCompare](https://github.com/TiCodeX/SQLSchemaCompare) - TiCodeX SQL Schema Compare
 - [duyanming/Anno.Core](https://github.com/duyanming/Anno.Core) - Anno 是一个微服务快速开发框架，底层通讯可选用grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD，插件化开发。
 - [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - Purest Admin 是一套真正意义上前后端分离、深度适配企业RBAC权限体系的通用后台管理系统。依托现代化 .NET 10 技术栈、Vue3 生态前端、强大的工作流引擎，力求降低业务框架搭建门槛，实现一站式、敏捷、高可扩展的企业级后台管理平台。
+- [Azure/azure-service-bus-emulator-installer](https://github.com/Azure/azure-service-bus-emulator-installer) - This repository acts as a central hub for handling issues, collecting feedback, and facilitating discussions related to the Azure Service Bus Emulator.
 - [james-gould/azure-keyvault-emulator](https://github.com/james-gould/azure-keyvault-emulator) - An emulator for Azure Key Vault. Compatible with the Azure Client SDK, runnable with Docker or .NET Aspire.
 - [rsocket/rsocket-net](https://github.com/rsocket/rsocket-net) - .NET implementation of RSocket
 - [davidfowl/YarpTunnelDemo](https://github.com/davidfowl/YarpTunnelDemo) - YARP demo showing how tunneling can be implemented over websockets
@@ -1672,7 +1673,7 @@
 - [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [matplotlib/mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [niege365/oracle_arm](https://github.com/niege365/oracle_arm) - oracle arm registration script. 乌龟壳刷ARM脚本
@@ -1858,7 +1859,6 @@
 
 ## Shell 
 
-- [Azure/azure-service-bus-emulator-installer](https://github.com/Azure/azure-service-bus-emulator-installer) - This repository acts as a central hub for handling issues, collecting feedback, and facilitating discussions related to the Azure Service Bus Emulator.
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
