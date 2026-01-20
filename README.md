@@ -959,7 +959,7 @@
 
 - [Adddedtiya/BlazorCookieAuthentication](https://github.com/Adddedtiya/BlazorCookieAuthentication) - Blazor Cookie based authentication and authorization template
 - [plinioseniore/zscaler-bypass](https://github.com/plinioseniore/zscaler-bypass) - Bypass ZScaler Restrictions
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
 - [vladignatyev/crx-extractor](https://github.com/vladignatyev/crx-extractor) - CRX Extractor downloads and extracts Chrome Extensions and its source code
 - [conficient/BlazorDynamicScriptLoad](https://github.com/conficient/BlazorDynamicScriptLoad) - Demonstrate dynamic loading of a JavaScript library in Blazor
 - [MichelJansson/BlazorTurnstile](https://github.com/MichelJansson/BlazorTurnstile) - A Blazor library for Cloudflare Turnstile.
@@ -1446,7 +1446,7 @@
 ## Lua 
 
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [AmrEldib/cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt) - Custom prompt for Cmder on Windows
 
 ## MDX 
