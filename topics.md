@@ -3544,7 +3544,7 @@
 - [guyue88/ife-css-sprites](https://github.com/guyue88/ife-css-sprites) - auto sprite images.
 - [hallatore/Netling](https://github.com/hallatore/Netling) - Netling is a load tester client for easy web testing.
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
+- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - [UNMAINTAINED] 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [kukyxs/flutter_weather](https://github.com/kukyxs/flutter_weather) - flutter weather =&gt; rxdart + fluro + sqflite + BLoC
 - [wukuy/cloud-music-mobile](https://github.com/wukuy/cloud-music-mobile) - 移动端网易云音乐模仿，使用flutter编写。
 - [joaofbantunes/AspNetCoreRazorPagesInnerModelLocalizationSample](https://github.com/joaofbantunes/AspNetCoreRazorPagesInnerModelLocalizationSample) - Very small sample of how to localize DataAnnotations in models that are inside page model classes.
