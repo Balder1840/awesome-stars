@@ -1569,7 +1569,7 @@
 - [brecons/jquery-validation-unobtrusive-bootstrap](https://github.com/brecons/jquery-validation-unobtrusive-bootstrap) - Add-on to jQuery Validation to make unobtrusive validation compatible to Bootstrap v4.x.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
+- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - [UNMAINTAINED] 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [geffzhang/awesome-ocelot](https://github.com/geffzhang/awesome-ocelot) - A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -1794,7 +1794,6 @@
 ## Roff 
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -1915,6 +1914,7 @@
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [Azure/container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) - Container Service for Azure China
 - [xuxinkun/littleTools](https://github.com/xuxinkun/littleTools) - A set of short commands used to make the input of some commands simple.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [chris-short/rak8s](https://github.com/chris-short/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
