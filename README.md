@@ -703,6 +703,7 @@
 
 ## CSS 
 
+- [carlosvidal/modernized-waitme](https://github.com/carlosvidal/modernized-waitme) - Modernized-WaitMe.js is a lightweight, customizable loading spinner and progress bar library for web applications. It provides an easy way to show loading states with various animations.
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -957,6 +958,7 @@
 
 ## HTML 
 
+- [vadimsva/waitMe](https://github.com/vadimsva/waitMe) - jquery plugin for easy creating loading css3/images animations
 - [Adddedtiya/BlazorCookieAuthentication](https://github.com/Adddedtiya/BlazorCookieAuthentication) - Blazor Cookie based authentication and authorization template
 - [plinioseniore/zscaler-bypass](https://github.com/plinioseniore/zscaler-bypass) - Bypass ZScaler Restrictions
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
@@ -1545,7 +1547,7 @@
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [EasyAbp/EasyAbpGuide](https://github.com/EasyAbp/EasyAbpGuide) - Introduce EasyAbp organization, list our modules, provide the specification for the module development.
-- [awesome-mqtt/awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) - A curated list of MQTT related stuff. :sparkles:
+- [awesome-mqtt/awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) - Curated list of MQTT brokers, clients, tools, resources and more.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
