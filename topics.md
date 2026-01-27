@@ -3491,7 +3491,7 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [zengjielin/vue-component-library](https://github.com/zengjielin/vue-component-library) - vue高度定制化常用的一些组件，progress,switch,loading
 - [ninjanye/SearchExtensions](https://github.com/ninjanye/SearchExtensions) - Library of IQueryable extension methods to perform searching
-- [adamralph/bullseye](https://github.com/adamralph/bullseye) - 🎯 A .NET library for running a target dependency graph.
+- [adamralph/bullseye](https://github.com/adamralph/bullseye) - 🎯 A .NET library, developed by humans, for running a target dependency graph.
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [bradygaster/downr](https://github.com/bradygaster/downr) - dirt-simple markdown blog tool built using asp.net core
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -4627,6 +4627,7 @@
 
 ## typescript 
 
+- [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
