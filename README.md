@@ -317,7 +317,7 @@
 - [tmsmith/Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) - Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provi
 - [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [itext/itext-dotnet](https://github.com/itext/itext-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the bene
-- [skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin) - The administration for the Duende IdentityServer and Asp.Net Core Identity ⚡
+- [skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin) - Modern admin UI for Duende IdentityServer and ASP.NET Core Identity 🚀
 - [NetDevPack/Security.Jwt](https://github.com/NetDevPack/Security.Jwt) - Jwt Manager. Set of components to deal with Jwt Stuff. Automate your key rotating, add support for jwks_uri. Store your cryptography keys in a secure place.
 - [NetDevPack/NetDevPack](https://github.com/NetDevPack/NetDevPack) - A smart set of common classes and implementations to improve your development productivity.
 - [DuendeSoftware/products](https://github.com/DuendeSoftware/products) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
@@ -867,7 +867,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [wzshiming/socks5](https://github.com/wzshiming/socks5) - Socks5/Socks5h server and client. Full TCP/Bind/UDP and IPv4/IPv6 support
 - [Equim-chan/h2s](https://github.com/Equim-chan/h2s) - :electric_plug: A simple tool that wraps HTTPS proxies into a SOCKS5 proxy.
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
