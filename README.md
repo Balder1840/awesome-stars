@@ -341,7 +341,7 @@
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A fast and reliable .NET Rules Engine with extensive Dynamic expression support
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
-- [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
+- [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - The Workflow Engine for .NET
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - 
 - [weikio/PluginFramework](https://github.com/weikio/PluginFramework) - Everything is a Plugin in .NET
