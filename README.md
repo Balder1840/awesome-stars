@@ -1177,7 +1177,7 @@
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - [Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
