@@ -867,7 +867,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 - [wzshiming/socks5](https://github.com/wzshiming/socks5) - Socks5/Socks5h server and client. Full TCP/Bind/UDP and IPv4/IPv6 support
 - [Equim-chan/h2s](https://github.com/Equim-chan/h2s) - :electric_plug: A simple tool that wraps HTTPS proxies into a SOCKS5 proxy.
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
@@ -1517,7 +1517,6 @@
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [ffernandolima/ef-core-data-access](https://github.com/ffernandolima/ef-core-data-access) - It's a modern and generic data access structure for .NET and Microsoft.EntityFrameworkCore. It supports UnitOfWork, Repository and QueryBuilder patterns. It also includes auto history utilities, multi
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [open-dingtalk/pierced](https://github.com/open-dingtalk/pierced) - 钉钉内网穿透
@@ -1730,7 +1729,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -1975,6 +1974,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [antfu/v-lazy-show](https://github.com/antfu/v-lazy-show) - Compile-time directive to lazy initialize v-show for Vue
 - [simonbengtsson/jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable) - jsPDF plugin for generating PDF tables with javascript
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [VolodymyrBaydalka/docxjs](https://github.com/VolodymyrBaydalka/docxjs) - Docx rendering library
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
