@@ -1238,7 +1238,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## discord 
@@ -1319,7 +1319,7 @@
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [Kaliumhexacyanoferrat/GenHTTP.Gateway](https://github.com/Kaliumhexacyanoferrat/GenHTTP.Gateway) - Simple reverse proxy to provide various web applications over a single HTTPS entry point, e.g. in a home server scenario.
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
@@ -2547,7 +2547,7 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 
@@ -2629,7 +2629,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3009,7 +3009,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [huangche007/vue-jd](https://github.com/huangche007/vue-jd) - 基于nodejs+mysql实现的仿京东商城项目
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -3339,7 +3339,7 @@
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 - [NetDevPack/NetDevPack](https://github.com/NetDevPack/NetDevPack) - A smart set of common classes and implementations to improve your development productivity.
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [DbUp/DbUp](https://github.com/DbUp/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up 
 - [ullmark/hashids.net](https://github.com/ullmark/hashids.net) - A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
@@ -4173,7 +4173,7 @@
 - [open-source-labs/PreVue](https://github.com/open-source-labs/PreVue) - 🎨 All in One Prototyping Tool For Vue Developers.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
@@ -4543,7 +4543,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 
@@ -4659,7 +4659,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
