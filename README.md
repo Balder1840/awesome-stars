@@ -1231,7 +1231,7 @@
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 - [mycolorway/simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor
 - [hsfzxjy/xxqg-addon](https://github.com/hsfzxjy/xxqg-addon) - XXQG 刷分插件
 - [fengyuanchen/jquery-cropper](https://github.com/fengyuanchen/jquery-cropper) - A jQuery plugin wrapper for Cropper.js.
