@@ -2603,6 +2603,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [armbian/os](https://github.com/armbian/os) - Armbian operating system rolling releases provides automated nightly builds of maintained targets
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) - A lightweight, fast and reliable socks5 transparent proxy
 - [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
@@ -2716,6 +2717,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
