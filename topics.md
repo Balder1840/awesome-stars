@@ -3780,7 +3780,7 @@
 - [OData/WebApi](https://github.com/OData/WebApi) - OData Web API: A server library built upon ODataLib and WebApi
 - [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [DuendeArchive/IdentityModel](https://github.com/DuendeArchive/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
-- [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
+- [damianh-archive/LibLog](https://github.com/damianh-archive/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
 - [LuckyPennySoftware/AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper) - A convention-based object-object mapper in .NET.
 - [TinyMapper/TinyMapper](https://github.com/TinyMapper/TinyMapper) - A quick object-object mapper for .NET
 - [agileobjects/AgileMapper](https://github.com/agileobjects/AgileMapper) - A zero-configuration, highly-configurable, unopinionated object mapper with viewable execution plans. Flattens, unflattens, deep clones, merges, updates and projects queries. .NET 3.5+ and .NET Standa
