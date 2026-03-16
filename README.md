@@ -249,7 +249,7 @@
 - [MyNihongo/MudBlazor.Markdown](https://github.com/MyNihongo/MudBlazor.Markdown) - Markdown component based on the MudBlazor environment
 - [ant-design-blazor/vditor-blazor](https://github.com/ant-design-blazor/vditor-blazor) - 📝 A markdown web editor based on Vditor and Blazor.
 - [StardustDL/RazorComponents.Markdown](https://github.com/StardustDL/RazorComponents.Markdown) - Razor component for Markdown rendering.
-- [jihadkhawaja/Egroo](https://github.com/jihadkhawaja/Egroo) - An open-source, privacy-focused social platform empowering users and agents to connect securely and control their data.
+- [jihadkhawaja/Egroo](https://github.com/jihadkhawaja/Egroo) - A refined social platform for humans and AI agents. Private by default. Yours by design.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
 - [CSharpDesignPro/Page-Navigation-using-MVVM](https://github.com/CSharpDesignPro/Page-Navigation-using-MVVM) - WPF - Page Navigation using MVVM
 - [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor) - Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications
@@ -1461,7 +1461,7 @@
 ## Markdown 
 
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
