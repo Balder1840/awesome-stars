@@ -502,7 +502,7 @@
 - [doctral/Clean-Architecture-with-ASP.NET-Core](https://github.com/doctral/Clean-Architecture-with-ASP.NET-Core) - 
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 - [medalinouira/ASPNetCore-CleanArchitecture](https://github.com/medalinouira/ASPNetCore-CleanArchitecture) - Clean Architecture project of an ASP.NET Core WEB API provided by my Visual Studio Extension 'AspNetCore.Templates' : https://marketplace.visualstudio.com/items?itemName=mohamedalinouira.AspNetCoreTem
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to s
 - [dotnet/DataGridExtensions](https://github.com/dotnet/DataGridExtensions) - Modular extensions for the WPF DataGrid control
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
@@ -1454,7 +1454,6 @@
 ## Makefile 
 
 - [kuoruan/openwrt-v2ray](https://github.com/kuoruan/openwrt-v2ray) - V2Ray for OpenWrt
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -1587,6 +1586,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack) - 这里收集了许多移动端上遇到的各种坑
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
 - [unitycontainer/unity](https://github.com/unitycontainer/unity) - This repository contains all relevant information about Unity Container suit
 - [pengtikui/WeUI-Simple-Guide](https://github.com/pengtikui/WeUI-Simple-Guide) - WeUI 1.0 简明入门指南
@@ -1729,7 +1729,7 @@
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
