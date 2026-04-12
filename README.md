@@ -342,7 +342,7 @@
 - [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  AI Empowerment
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - The Workflow Engine for .NET
 - [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
-- [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - 
+- [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - StackExchange.Redis.Extensions is a library that extends StackExchange.Redis, making it easier to work with Redis in .NET applications
 - [weikio/PluginFramework](https://github.com/weikio/PluginFramework) - Everything is a Plugin in .NET
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce s
