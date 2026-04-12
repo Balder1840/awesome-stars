@@ -1441,7 +1441,7 @@
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A fast and reliable .NET Rules Engine with extensive Dynamic expression support
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - The Workflow Engine for .NET
-- [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - 
+- [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - StackExchange.Redis.Extensions is a library that extends StackExchange.Redis, making it easier to work with Redis in .NET applications
 - [weikio/PluginFramework](https://github.com/weikio/PluginFramework) - Everything is a Plugin in .NET
 - [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.
 - [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) - .NET Components for Externalized Configuration, Database Connectors, Service Discovery, Logging and Distributed Tracing, Application Management, Security, and more.
