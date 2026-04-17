@@ -117,6 +117,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -1939,6 +1940,10 @@
 - [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [ThoughtWorksInc/Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala
+
+## hack 
+
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 
 ## hacking 
 
@@ -4019,7 +4024,7 @@
 - [jackyin68/pyprofiling](https://github.com/jackyin68/pyprofiling) - 通达信股票数据处理，股价预测，性能分析，特征选择
 - [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
@@ -4137,7 +4142,7 @@
 
 ## rag 
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 
