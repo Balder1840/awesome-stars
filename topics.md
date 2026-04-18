@@ -937,6 +937,7 @@
 - [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par
 - [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
+- [nats-io/nats.net](https://github.com/nats-io/nats.net) - Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [benjamin-hodgson/Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight and fast parsing library for C#.
 - [Adddedtiya/BlazorCookieAuthentication](https://github.com/Adddedtiya/BlazorCookieAuthentication) - Blazor Cookie based authentication and authorization template
@@ -1393,6 +1394,7 @@
 - [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [davidfowl/BedrockFramework](https://github.com/davidfowl/BedrockFramework) - High performance, low level networking APIs for building custom servers and clients.
+- [nats-io/nats.net](https://github.com/nats-io/nats.net) - Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [benjamin-hodgson/Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight and fast parsing library for C#.
 - [Adddedtiya/BlazorCookieAuthentication](https://github.com/Adddedtiya/BlazorCookieAuthentication) - Blazor Cookie based authentication and authorization template
@@ -3146,7 +3148,6 @@
 - [xljiulang/AwaitableCompletionSource](https://github.com/xljiulang/AwaitableCompletionSource) - AwaitableCompletionSource在多个场景下可替代TaskCompletionSource，更少的cpu时间和内存分配。
 - [aykutalparslan/high-perfomance-tcp-server](https://github.com/aykutalparslan/high-perfomance-tcp-server) - High Performance TCP Server in C#
 - [crozone/SocketCanNet](https://github.com/crozone/SocketCanNet) - SocketCAN library for working with Controller Area Network (CAN bus) sockets on Linux with .NET.
-- [nats-io/nats.net](https://github.com/nats-io/nats.net) - Full Async C# / .NET client for NATS
 - [drlivsi/Ocelot.SignalR.Demo](https://github.com/drlivsi/Ocelot.SignalR.Demo) - Example of using the Ocelot Api Gateway and SignalR hubs behind a load balancer with a MassTransit RabbitMQ backplane.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
@@ -4050,7 +4051,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 - [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
