@@ -168,7 +168,7 @@
 - [aykutalparslan/high-perfomance-tcp-server](https://github.com/aykutalparslan/high-perfomance-tcp-server) - High Performance TCP Server in C#
 - [derek-will/SocketCANSharp](https://github.com/derek-will/SocketCANSharp) - .NET managed wrapper for SocketCAN on Linux
 - [crozone/SocketCanNet](https://github.com/crozone/SocketCanNet) - SocketCAN library for working with Controller Area Network (CAN bus) sockets on Linux with .NET.
-- [nats-io/nats.net](https://github.com/nats-io/nats.net) - Full Async C# / .NET client for NATS
+- [nats-io/nats.net](https://github.com/nats-io/nats.net) - Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services
 - [drlivsi/Ocelot.SignalR.Demo](https://github.com/drlivsi/Ocelot.SignalR.Demo) - Example of using the Ocelot Api Gateway and SignalR hubs behind a load balancer with a MassTransit RabbitMQ backplane.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
@@ -1715,7 +1715,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
