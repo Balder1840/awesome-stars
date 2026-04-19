@@ -2849,7 +2849,7 @@
 
 - [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 21, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
-- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - .NET微服务/分布式开发框架，同时也适用于单体架构系统的开发。
+- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - An open-source distributed/microservice framework based on .NET 8, and it also works well for monolithic applications.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
