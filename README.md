@@ -151,7 +151,7 @@
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par
 - [dotnet/dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
-- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
+- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - Spectacular C# MQTT and Sparkplug Clients for .NET
 - [DerekMar/SocketAsyncEventArgsDemo](https://github.com/DerekMar/SocketAsyncEventArgsDemo) - .Net C# 实现高效能多并发TCPSocket通信的例子，包括官方例子
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [davidfowl/TcpProxy](https://github.com/davidfowl/TcpProxy) - A sample showing how to implement a tcp proxy using new kestrel APIs
@@ -960,7 +960,7 @@
 - [vadimsva/waitMe](https://github.com/vadimsva/waitMe) - jquery plugin for easy creating loading css3/images animations
 - [Adddedtiya/BlazorCookieAuthentication](https://github.com/Adddedtiya/BlazorCookieAuthentication) - Blazor Cookie based authentication and authorization template
 - [plinioseniore/zscaler-bypass](https://github.com/plinioseniore/zscaler-bypass) - Bypass ZScaler Restrictions
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [vladignatyev/crx-extractor](https://github.com/vladignatyev/crx-extractor) - CRX Extractor downloads and extracts Chrome Extensions and its source code
 - [conficient/BlazorDynamicScriptLoad](https://github.com/conficient/BlazorDynamicScriptLoad) - Demonstrate dynamic loading of a JavaScript library in Blazor
