@@ -177,6 +177,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [osint](#osint)
@@ -935,7 +936,7 @@
 - [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par
-- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
+- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - Spectacular C# MQTT and Sparkplug Clients for .NET
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [nats-io/nats.net](https://github.com/nats-io/nats.net) - Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
@@ -1391,7 +1392,7 @@
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and par
 - [dotnet/dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
-- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
+- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - Spectacular C# MQTT and Sparkplug Clients for .NET
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [davidfowl/BedrockFramework](https://github.com/davidfowl/BedrockFramework) - High performance, low level networking APIs for building custom servers and clients.
 - [nats-io/nats.net](https://github.com/nats-io/nats.net) - Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services
@@ -2132,7 +2133,7 @@
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [imgk/shadow](https://github.com/imgk/shadow) - A rule-based transparent proxy for Windows, Linux, macOS
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [RRQM/TouchSocket](https://github.com/RRQM/TouchSocket) - TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues
@@ -2217,7 +2218,7 @@
 ## iot 
 
 - [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
-- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - A fully MQTT 5.0 compliant .NET/C# secure client with automatic back pressure management and TCP & WebSocket transport support.  🔥 Optimized for high-performance asynchronous communication.
+- [hivemq/hivemq-mqtt-client-dotnet](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - Spectacular C# MQTT and Sparkplug Clients for .NET
 - [my-devices/meta-gateway-docker](https://github.com/my-devices/meta-gateway-docker) - macchina.io REMOTE provides secure remote access via web (HTTP), shell (SSH), remote desktop (VNC, RDP) and other protocols to IoT devices behind routers or firewalls. No port forwarding, scarce publi
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -3081,6 +3082,10 @@
 
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
+
+## obsidian 
+
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## open-source 
 
