@@ -1344,6 +1344,7 @@
 ## distributed-systems 
 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - A pragmatic .NET 8 framework for modular monoliths to evolve seamlessly into distributed microservices.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
@@ -1501,6 +1502,7 @@
 - [Carlos487/awesome-wpf](https://github.com/Carlos487/awesome-wpf) - A collection of awesome WPF resources, libraries and UI controls.
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
+- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - A pragmatic .NET 8 framework for modular monoliths to evolve seamlessly into distributed microservices.
 - [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [georg-jung/ArpLookup](https://github.com/georg-jung/ArpLookup) - A .Net Standard 2.0 library supporting ARP lookups on Windows and Linux to find the MAC address corresponding to an IP address.
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
@@ -1524,7 +1526,7 @@
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - The Workflow Engine for .NET
 - [imperugo/StackExchange.Redis.Extensions](https://github.com/imperugo/StackExchange.Redis.Extensions) - StackExchange.Redis.Extensions is a library that extends StackExchange.Redis, making it easier to work with Redis in .NET applications
 - [weikio/PluginFramework](https://github.com/weikio/PluginFramework) - Everything is a Plugin in .NET
-- [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.
+- [Finbuckle/Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.
 - [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) - .NET Components for Externalized Configuration, Database Connectors, Service Discovery, Logging and Distributed Tracing, Application Management, Security, and more.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -2443,7 +2445,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [FancyGrid/awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [Aerolab/midnight.js](https://github.com/Aerolab/midnight.js) - Switch your nav's design on the fly
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -2927,7 +2929,7 @@
 
 - [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 21, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
-- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - A pragmatic .NET 8 reference architecture for modular monoliths, distributed applications, and microservice systems.
+- [AlphaYu/adnc](https://github.com/AlphaYu/adnc) - A pragmatic .NET 8 framework for modular monoliths to evolve seamlessly into distributed microservices.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
