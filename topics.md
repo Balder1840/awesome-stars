@@ -3152,6 +3152,7 @@
 
 ## npm 
 
+- [nelson820125/jordium-gantt-vue3](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -3201,6 +3202,8 @@
 
 ## others 
 
+- [Septrum101/zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
+- [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gant
 - [kevingosse/ManagedDotnetGC](https://github.com/kevingosse/ManagedDotnetGC) - Implementation of a .NET GC in C# with NativeAOT
 - [HakanL/Haukcode.HighResolutionTimer](https://github.com/HakanL/Haukcode.HighResolutionTimer) - High Resolution Timer for .NET Core
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
@@ -4034,6 +4037,7 @@
 
 ## productivity 
 
+- [nelson820125/jordium-gantt-vue3](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -4062,6 +4066,7 @@
 
 ## project-management 
 
+- [nelson820125/jordium-gantt-vue3](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
 ## prompt-engineering 
