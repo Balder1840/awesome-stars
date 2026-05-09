@@ -456,6 +456,7 @@
 
 ## api 
 
+- [kaydot13/chatlog_backup](https://github.com/kaydot13/chatlog_backup) - 🗨️ Retrieve and manage your chat history easily with this tool that supports multiple platforms and formats for seamless data access.
 - [gencebay/httplive](https://github.com/gencebay/httplive) - HTTP Request & Response Service, Mock HTTP
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
@@ -500,6 +501,7 @@
 
 ## automation 
 
+- [kaydot13/chatlog_backup](https://github.com/kaydot13/chatlog_backup) - 🗨️ Retrieve and manage your chat history easily with this tool that supports multiple platforms and formats for seamless data access.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
@@ -1246,6 +1248,7 @@
 
 ## database 
 
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [khellang/EFCore.Sqlite.NodaTime](https://github.com/khellang/EFCore.Sqlite.NodaTime) - Adds support for NodaTime types when using SQLite with Entity Framework Core.
@@ -2594,6 +2597,7 @@
 
 ## json 
 
+- [kaydot13/chatlog_backup](https://github.com/kaydot13/chatlog_backup) - 🗨️ Retrieve and manage your chat history easily with this tool that supports multiple platforms and formats for seamless data access.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [hishamco/My.Extensions.Localization.Json](https://github.com/hishamco/My.Extensions.Localization.Json) - JSON Localization Resources
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
@@ -3191,6 +3195,7 @@
 
 ## open-source 
 
+- [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
 - [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
 - [ejacobhayes/parsecio](https://github.com/ejacobhayes/parsecio) - 🐿️ A blazing-fast, self-updating dashboard for your GitHub stars — smartly categorized, beautifully designed, and fully static with zero dependencies.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -3224,6 +3229,18 @@
 
 ## others 
 
+- [0x032c/chatlog](https://github.com/0x032c/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+- [pingguoge001-coder/chatlog](https://github.com/pingguoge001-coder/chatlog) - 微信聊天记录工具包：chatlog 自动启动脚本 + SNS 增强版（支持朋友圈/微信收藏/联系人标签）
+- [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
+- [Jingdong-Liu/chatlog](https://github.com/Jingdong-Liu/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+- [imldy/chatlog](https://github.com/imldy/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+- [zhaosj0315/WcbackMac](https://github.com/zhaosj0315/WcbackMac) - Mac 版微信聊天记录解密、导出、Web查看工具
+- [superShen0916/wechat-export](https://github.com/superShen0916/wechat-export) - 微信聊天记录导出工具（macOS）：纯 Go 实现 SQLCipher 解密，支持 JSON/CSV/HTML
+- [gitstq/wechatlog-explorer](https://github.com/gitstq/wechatlog-explorer) - 微信聊天记录智能探索工具 - Smart WeChat chat history exploration tool with semantic search
+- [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
+- [fclwtt/wechat-cli](https://github.com/fclwtt/wechat-cli) - WeChat CLI - 查询个人微信聊天记录，支持 Windows/macOS/Linux
+- [xlight/chatlog-session](https://github.com/xlight/chatlog-session) - 基于 web 的远程微信聊天记录查看器，很适合把微信挂在nas上使用
+- [caigee-cmd/wechat-insight](https://github.com/caigee-cmd/wechat-insight) - 本地优先的微信聊天记录分析工具（macOS）：export messages, generate reports, dashboards, and customer insights.
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [H3CoF6/wechat-decrypt-rs](https://github.com/H3CoF6/wechat-decrypt-rs) - rust编写的 安全·快速 的非侵入式微信数据库/图片缓存 解密工具
 - [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信4.x数据解密并生成年度总结，高仿微信，支持实时更新，导出聊天记录，朋友圈等大量便捷功能
@@ -4111,6 +4128,7 @@
 
 ## python 
 
+- [kaydot13/chatlog_backup](https://github.com/kaydot13/chatlog_backup) - 🗨️ Retrieve and manage your chat history easily with this tool that supports multiple platforms and formats for seamless data access.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [jones2000/HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口
@@ -4450,6 +4468,7 @@
 
 ## security 
 
+- [kaydot13/chatlog_backup](https://github.com/kaydot13/chatlog_backup) - 🗨️ Retrieve and manage your chat history easily with this tool that supports multiple platforms and formats for seamless data access.
 - [mihirdilip/aspnetcore-authentication-apikey](https://github.com/mihirdilip/aspnetcore-authentication-apikey) - Easy to use and very light weight Microsoft style API Key Authentication Implementation for ASP.NET Core. It can be setup so that it can accept API Key in Header, Authorization Header, QueryParams or 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
