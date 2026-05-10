@@ -3286,7 +3286,7 @@
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 - [injoyai/tdx](https://github.com/injoyai/tdx) - 通达信的协议解析,用于获取股票信息
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
 - [Qliangw/openwrt-x86_64-qw](https://github.com/Qliangw/openwrt-x86_64-qw) - 自用op,只为干净稳定旁路,不需要太多插件.
@@ -3334,7 +3334,6 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [arloor/rust_http_proxy](https://github.com/arloor/rust_http_proxy) - 基于Rust的正向代理、反向代理和静态资源托管。  forward proxy、reverse proxy and static file serving
 - [SagerNet/serenity](https://github.com/SagerNet/serenity) - The configuration generator for sing-box
-- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [white-seolpyo/seolpyo-mplchart](https://github.com/white-seolpyo/seolpyo-mplchart) - Fast candlestick chart using Python.\nIncludes navigator, slider, navigation, and text information display functions
 - [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
@@ -4428,6 +4427,7 @@
 
 ## rust 
 
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2.0 and PAM
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
@@ -4894,7 +4894,6 @@
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-- [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks)
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 - [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
