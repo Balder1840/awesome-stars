@@ -514,6 +514,7 @@
 - [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
 - [thomasgalliker/EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework best practices, patterns, utilities and extensions
 - [aspnet-contrib/AspNet.Security.OAuth.Extensions](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Extensions) - OAuth2 extensions for ASP.NET Core and OWIN/Katana
+- [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS) - ZKEACMS build with .Net 8 (.Net CMS)可视化设计在线编辑内容管理系统
 - [kozw/mui](https://github.com/kozw/mui) - Modern UI for WPF
 - [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
@@ -980,7 +981,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-- [ThemeKit/BootstrapAdmin](https://github.com/ThemeKit/BootstrapAdmin) - Bootstrap 4 admin template.
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
@@ -1279,7 +1279,6 @@
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [yubaolee/OpenAuth.Core](https://github.com/yubaolee/OpenAuth.Core) - .Net Core/.Net 5快速应用开发框架、最好用的权限工作流系统。基于经典领域驱动设计的权限管理及快速开发框架，源于Martin Fowler企业级应用开发思想及最新技术组合（IdentityServer、EF core、Quartz、AutoFac、WebAPI、Swagger、Mock、NUnit、VUE、Element-ui等）。已成功在docker/jenkins中实施。核心模块包
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS) - ZKEACMS build with .Net 8 (.Net CMS)可视化设计在线编辑内容管理系统
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [clivezhg/select2-to-tree](https://github.com/clivezhg/select2-to-tree) - Select2-to-Tree extends Select2 to support arbitrary level of nesting...
@@ -1661,6 +1660,8 @@
 
 ## Python 
 
+- [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) - Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自
+- [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 - [Zzzzzzyt/ntqq-data-merge](https://github.com/Zzzzzzyt/ntqq-data-merge) - NTQQ 聊天记录导出/合并/写入
 - [HwFee/qq-monitor](https://github.com/HwFee/qq-monitor) - QQ班级群监控脚本 - 自动提取和解密NTQQ消息，推送到服务器
 - [QQBackup/QQ-History-Backup](https://github.com/QQBackup/QQ-History-Backup) - 【停更】QQ/TIM 聊天记录导出为 HTML，支持图片、语音，可 GUI 与 非 GUI 操作 (Python)
@@ -1981,7 +1982,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternat
