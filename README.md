@@ -1306,7 +1306,7 @@
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
 - [tonytomov/jqGrid](https://github.com/tonytomov/jqGrid) - jQuery grid plugin
-- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+- [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [rstaib/jquery-bootgrid](https://github.com/rstaib/jquery-bootgrid) - Nice, sleek and intuitive. A grid control especially designed for bootstrap.
 - [fooplugins/FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -1314,7 +1314,7 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [bramstein/column-selector](https://github.com/bramstein/column-selector) - jQuery Column Selector
 - [lihongxun945/jquery-weui](https://github.com/lihongxun945/jquery-weui) - 由于前端业界早已以React/Vue/Angular为主，个人也多年未使用过jQuery，此仓库已不再维护。推荐大家尽快转向 AntD、Element等更先进的UI库，https://ant.design/, https://element.eleme.io/#/zh-CN
-- [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
+- [duxianwei520/react](https://github.com/duxianwei520/react) - React+vite+redux+ant design+axios+less全家桶后台管理框架
 - [fex-team/webuploader](https://github.com/fex-team/webuploader) - It's a new file uploader solution!
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -2101,7 +2101,7 @@
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [alibaba/alist](https://github.com/alibaba/alist) - Alibaba Group Unified List Solution.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [luiscantero/angular2-webpack-dotnet-core](https://github.com/luiscantero/angular2-webpack-dotnet-core) - Angular 9 sample using webpack, .NET Core and Visual Studio
