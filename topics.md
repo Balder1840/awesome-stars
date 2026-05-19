@@ -487,7 +487,7 @@
 
 ## aspnet 
 
-- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2025 by seniority level.
+- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2026 by seniority level.
 - [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
@@ -1041,7 +1041,7 @@
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2026
 - [netcorepal/netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) - 一个基于ASP.NET Core实现的整洁领域驱动设计落地战术框架。  A tactical framework for Clean Domain-Driven Design based on ASP.NET Core.
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
-- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2025 by seniority level.
+- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2026 by seniority level.
 - [wiresock/ndisapi.net](https://github.com/wiresock/ndisapi.net) - C# Interface for Windows Packet Filter
 - [devlooped/WebSocketPipe](https://github.com/devlooped/WebSocketPipe) - System.IO.Pipelines API adapter for System.Net.WebSockets
 - [RRQM/TouchSocket](https://github.com/RRQM/TouchSocket) - TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues
@@ -1506,7 +1506,7 @@
 - [zarusz/SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
 - [microsoft/vs-streamjsonrpc](https://github.com/microsoft/vs-streamjsonrpc) - The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
-- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2025 by seniority level.
+- [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2026 by seniority level.
 - [devlooped/WebSocketPipe](https://github.com/devlooped/WebSocketPipe) - System.IO.Pipelines API adapter for System.Net.WebSockets
 - [Open-NET-Libraries/Open.ChannelExtensions](https://github.com/Open-NET-Libraries/Open.ChannelExtensions) - A set of extensions for optimizing/simplifying System.Threading.Channels usage.
 - [BitzArt/Blazor.Auth](https://github.com/BitzArt/Blazor.Auth) - Blazor authentication package
@@ -1656,7 +1656,6 @@
 ## emoji 
 
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## english 
 
@@ -3345,6 +3344,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [arloor/rust_http_proxy](https://github.com/arloor/rust_http_proxy) - 基于Rust的正向代理、反向代理和静态资源托管。  forward proxy、reverse proxy and static file serving
 - [SagerNet/serenity](https://github.com/SagerNet/serenity) - The configuration generator for sing-box
+- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [white-seolpyo/seolpyo-mplchart](https://github.com/white-seolpyo/seolpyo-mplchart) - Fast candlestick chart using Python.\nIncludes navigator, slider, navigation, and text information display functions
 - [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
@@ -4908,6 +4908,7 @@
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks)
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 - [TunMax/tun2socks_gui_for_windows](https://github.com/TunMax/tun2socks_gui_for_windows) - A simple gui for tun2socks on windows. 配合v2ray、ss等客户端(eg. v2rayN)，可使其实现tun模式。
