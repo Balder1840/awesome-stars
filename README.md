@@ -126,6 +126,10 @@
 
 ## C# # 
 
+- [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
+- [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
+- [error-or/error-or](https://github.com/error-or/error-or) - A simple, fluent discriminated union of an error or a result.
 - [kevingosse/ManagedDotnetGC](https://github.com/kevingosse/ManagedDotnetGC) - Implementation of a .NET GC in C# with NativeAOT
 - [HakanL/Haukcode.HighResolutionTimer](https://github.com/HakanL/Haukcode.HighResolutionTimer) - High Resolution Timer for .NET Core
 - [pkuyo/CanKit](https://github.com/pkuyo/CanKit) - a cross-platform, multi-vendor unified C# high-performance CAN (Controller Area Network) library
@@ -956,7 +960,7 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [andreaskoch/allmark](https://github.com/andreaskoch/allmark) - A cross-platform markdown web server
@@ -1832,7 +1836,7 @@
 - [artiga033/ntdb_unwrap](https://github.com/artiga033/ntdb_unwrap) - 一键解密/解析 NTQQ 数据库！
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [H3CoF6/wechat-decrypt-rs](https://github.com/H3CoF6/wechat-decrypt-rs) - rust编写的 安全·快速 的非侵入式微信数据库/图片缓存 解密工具
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
