@@ -426,7 +426,7 @@
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue
 - [aviabird/angularspree](https://github.com/aviabird/angularspree) - angular e-commerce framework for online store
 - [seasonstar/bibi](https://github.com/seasonstar/bibi) - An Cross-Border E-Commerce Fullstack Solution for Flask 跨境电商独立站全栈解决方案
-- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
+- [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [Johann-S/bs-custom-file-input](https://github.com/Johann-S/bs-custom-file-input) - A little plugin for Bootstrap 4 custom file input
@@ -1026,6 +1026,8 @@
 
 ## csharp 
 
+- [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
 - [pkuyo/CanKit](https://github.com/pkuyo/CanKit) - a cross-platform, multi-vendor unified C# high-performance CAN (Controller Area Network) library
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
@@ -1461,7 +1463,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [coding/WebIDE](https://github.com/coding/WebIDE) - Coding WebIDE Community Edition
 
 ## documentation 
@@ -1487,6 +1489,8 @@
 
 ## dotnet 
 
+- [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [duyanming/Anno.Core](https://github.com/duyanming/Anno.Core) - Anno 是一个微服务快速开发框架，底层通讯可选用grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD，插件化开发。
 - [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - Purest Admin 是一套真正意义上前后端分离、深度适配企业RBAC权限体系的通用后台管理系统。依托现代化 .NET 10 技术栈、Vue3 生态前端、强大的工作流引擎，力求降低业务框架搭建门槛，实现一站式、敏捷、高可扩展的企业级后台管理平台。
@@ -1868,7 +1872,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 
 ## github 
@@ -1956,7 +1960,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
@@ -2062,6 +2066,8 @@
 
 ## hacktoberfest 
 
+- [ardalis/Result](https://github.com/ardalis/Result) - A result abstraction that can be mapped to HTTP response codes if needed.
+- [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
@@ -3094,7 +3100,7 @@
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM   SqlServer ORM Mongodb ORM MySql  瀚高 Postgresql ORM  DB2 Hana 高斯 Duckdb C# VB.NET Sqlite  ORM Oracle ORM Mysql Orm 虚谷数据库 达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET9 ORM .NET8 OR
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
 
 ## nestjs 
@@ -3234,6 +3240,7 @@
 
 ## others 
 
+- [error-or/error-or](https://github.com/error-or/error-or) - A simple, fluent discriminated union of an error or a result.
 - [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) - Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [artiga033/ntdb_unwrap](https://github.com/artiga033/ntdb_unwrap) - 一键解密/解析 NTQQ 数据库！
@@ -4067,7 +4074,7 @@
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net aot ORM   SqlServer ORM Mongodb ORM MySql  瀚高 Postgresql ORM  DB2 Hana 高斯 Duckdb C# VB.NET Sqlite  ORM Oracle ORM Mysql Orm 虚谷数据库 达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET9 ORM .NET8 OR
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
 
 ## powershell 
@@ -4282,7 +4289,7 @@
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [chris-short/rak8s](https://github.com/chris-short/rak8s) - Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 - [Kaliumhexacyanoferrat/GenHTTP.Gateway](https://github.com/Kaliumhexacyanoferrat/GenHTTP.Gateway) - Simple reverse proxy to provide various web applications over a single HTTPS entry point, e.g. in a home server scenario.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## ratchet 
 
@@ -4441,7 +4448,7 @@
 ## rust 
 
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions
@@ -4536,12 +4543,12 @@
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## server 
 
 - [aykutalparslan/Ferrite](https://github.com/aykutalparslan/Ferrite) - Experimental Telegram Server
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [dotnet/WatsonTcp](https://github.com/dotnet/WatsonTcp) - WatsonTcp is the easiest way to build TCP-based clients and servers in C#.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -4822,7 +4829,7 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
-- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
+- [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
@@ -5141,7 +5148,7 @@
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
-- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
+- [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
