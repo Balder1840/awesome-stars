@@ -1190,7 +1190,6 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - [Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 - 已归档
@@ -1721,7 +1720,7 @@
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - A production-ready Python development environment template using modern tools: uv for blazing-fast package management, Ruff for lightning-fast linting and formatting, ty for fast and reliable type che
 - [Yuzhen-Li/Analysis-of-Public-Opinion-Based-on-Microblogging-Reptile](https://github.com/Yuzhen-Li/Analysis-of-Public-Opinion-Based-on-Microblogging-Reptile) - 这是我参加招商银行fintech精英选拔时，做的一个课题。用Python对新浪微博进行爬虫，然后进行舆情分析。爬虫之前，需要模拟登陆，这里采用RSA加密模块模拟登陆。舆情分析的时候，我直接调用腾讯文智的感情分析API。
-- [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑
+- [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑  an enterprise-grade public opinion news crawler project: supports one-click operation of any number of c
 - [tkfy920/qstock](https://github.com/tkfy920/qstock) - qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口；  选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等；
 - [mpquant/MyTT](https://github.com/mpquant/MyTT) - MyTT将通达信,同花顺,文华麦语言等指标公式,最简移植到Python中,核心库单个文件，仅百行代码,十几个核心函数，神奇的实现所有常见技术指标算法（不依赖talib库）的纯python实现和转换通达信MACD,RSI,BOLL,ATR,KDJ,CCI,PSY等公式,全部基于pandas函数计算方法封装，简洁且高性能，能非常方便的应用在股票指标公式,股市期货量化框架分析,自动程序化交易,数字货币量
 - [Micro-sheep/efinance](https://github.com/Micro-sheep/efinance) - efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
@@ -2075,6 +2074,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
