@@ -758,7 +758,7 @@
 - [CCY0122/WanAndroid_Flutter](https://github.com/CCY0122/WanAndroid_Flutter) - 🔥🔥超完整超漂亮的Flutter版wanAndroid客户端。含wanAndroid已开放的所有功能（包括TODO）。项目包含BloC模式、Provider模式、常规模式。
 - [fluttercandies/NeteaseCloudMusic](https://github.com/fluttercandies/NeteaseCloudMusic) - Flutter - NeteaseCloudMusic  Flutter 版本的网易云音乐
 - [yechaoa/wanandroid_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
-- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
+- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习
 - [aicareles/GitClub-Flutter](https://github.com/aicareles/GitClub-Flutter) - 极客日报的flutter版本
 - [xumaohuai/Flutter-CuriosityApp](https://github.com/xumaohuai/Flutter-CuriosityApp) - Flutter高仿好奇心日报
 - [wuxiaowei888765/flutter_coffee](https://github.com/wuxiaowei888765/flutter_coffee) - 📱仿luckin coffee的flutter app
