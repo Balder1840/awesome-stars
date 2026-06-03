@@ -267,7 +267,7 @@
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [malikmasis/TelephoneDirectory](https://github.com/malikmasis/TelephoneDirectory) - microservices-&gt; .net 8, golang - Docker, Tye, Dapr, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elasticsearch, kibana, jwt
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the
-- [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - 
+- [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
 - [georg-jung/ArpLookup](https://github.com/georg-jung/ArpLookup) - A .Net Standard 2.0 library supporting ARP lookups on Windows and Linux to find the MAC address corresponding to an IP address.
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
@@ -900,6 +900,7 @@
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1499,7 +1500,7 @@
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
 - [zihan987/wsl2-config](https://github.com/zihan987/wsl2-config) - About WSL2 config.
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年5月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年6月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [huxiangzheng/Books_YaoChao_Finance](https://github.com/huxiangzheng/Books_YaoChao_Finance) - 我收集的金融类书籍
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [CodeBang06/tdx-index-formula-source-code](https://github.com/CodeBang06/tdx-index-formula-source-code) - 通达信指标公式金钻合集主图副图选股公式300+，通达信同花顺大智慧指标公式因为书写比较简单，所以在股民中的应用非常广，操作用法也比较简单。
@@ -1681,7 +1682,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
-- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2026年5月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,p
+- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2026年6月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,p
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
@@ -1857,6 +1858,7 @@
 - [KaranGauswami/socks-to-http-proxy](https://github.com/KaranGauswami/socks-to-http-proxy) - An executable to convert SOCKS5 proxy into HTTP proxy
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
@@ -2013,7 +2015,6 @@
 - [VolodymyrBaydalka/docxjs](https://github.com/VolodymyrBaydalka/docxjs) - Docx rendering library
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -2028,7 +2029,6 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [MrXujiang/v6.dooring.public](https://github.com/MrXujiang/v6.dooring.public) - 可视化大屏解决方案, 提供一套可视化编辑引擎, 助力个人或企业轻松定制自己的可视化大屏应用.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
@@ -2040,7 +2040,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 LeekFund turns your VS Code and Cursor into a real-time stock, fund, and futures tracker. Stay informed without leaving your flow.
+- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。https://leek.fund/
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
