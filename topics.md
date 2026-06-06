@@ -3318,7 +3318,7 @@
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
 - [injoyai/tdx](https://github.com/injoyai/tdx) - 通达信的协议解析,用于获取股票信息
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
 - [Qliangw/openwrt-x86_64-qw](https://github.com/Qliangw/openwrt-x86_64-qw) - 自用op,只为干净稳定旁路,不需要太多插件.
@@ -3540,7 +3540,6 @@
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
 - [justdmitry/RecurrentTasks](https://github.com/justdmitry/RecurrentTasks) - Simple recurrent tasks for .NET
 - [GrillPhil/PeriodicBackgroundTaskSample](https://github.com/GrillPhil/PeriodicBackgroundTaskSample) - Sample on how to run and manage periodic background tasks in ASP.NET core 6
-- [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
