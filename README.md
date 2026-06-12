@@ -826,6 +826,7 @@
 - [chinmayagrawal775/forward_proxy](https://github.com/chinmayagrawal775/forward_proxy) - Forward Proxy Built using GO that you can use right in your system
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [SagerNet/serenity](https://github.com/SagerNet/serenity) - The configuration generator for sing-box
+- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
@@ -1092,6 +1093,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板
+- [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks & Hysteria)
 - [MackinnonBuck/blazor-page-script](https://github.com/MackinnonBuck/blazor-page-script) - A Blazor component enabling per-page JavaScript initialization logic in statically rendered Blazor Web apps
 - [doomclouds/Palink.Markdown](https://github.com/doomclouds/Palink.Markdown) - Blazor Markdown Editor And Html Render
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
