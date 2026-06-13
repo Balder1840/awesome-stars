@@ -1027,7 +1027,6 @@
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [mrlong/bootstrap3-validation.js](https://github.com/mrlong/bootstrap3-validation.js) - bootstrap3 validation
 - [matiasgali/bifrost](https://github.com/matiasgali/bifrost) - A jQuery Ajax transport that uses an iframe to asynchronously send files and data even if FormData, the File API and XMLHttpRequest aren't supported.
-- [puikinsh/Bootstrap-Admin-Template](https://github.com/puikinsh/Bootstrap-Admin-Template) - Metis - Free Bootstrap 5 Admin Dashboard Template
 - [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
