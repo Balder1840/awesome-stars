@@ -1082,6 +1082,7 @@
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+- [casosorg/casos](https://github.com/casosorg/casos) - CasOS: in-process Kubernetes control plane server built with Go
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [javabloger/yuqing](https://github.com/javabloger/yuqing) - 思通舆情 是一款开源免费的舆情系统，支持本地化部署。支持对海量的舆情数据进行多维交叉分析和深度挖掘,为用户户提供全面的舆情数据,专业的舆情分析。
@@ -1514,7 +1515,6 @@
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2026
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
-- [casdoor/awesome-auth](https://github.com/casdoor/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
 - [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
 - [ar51an/iperf3-win-builds](https://github.com/ar51an/iperf3-win-builds) - iperf3 binaries for Windows. Benchmark your network limits.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
