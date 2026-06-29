@@ -3280,7 +3280,6 @@
 - [zhaosj0315/WcbackMac](https://github.com/zhaosj0315/WcbackMac) - Mac 版微信聊天记录解密、导出、Web查看工具
 - [superShen0916/wechat-export](https://github.com/superShen0916/wechat-export) - 微信聊天记录导出工具（macOS）：纯 Go 实现 SQLCipher 解密，支持 JSON/CSV/HTML
 - [gitstq/wechatlog-explorer](https://github.com/gitstq/wechatlog-explorer) - 微信聊天记录智能探索工具 - Smart WeChat chat history exploration tool with semantic search
-- [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
 - [fclwtt/wechat-cli](https://github.com/fclwtt/wechat-cli) - WeChat CLI - 查询个人微信聊天记录，支持 Windows/macOS/Linux
 - [caigee-cmd/wechat-insight](https://github.com/caigee-cmd/wechat-insight) - 本地优先的微信聊天记录分析工具（macOS）：export messages, generate reports, dashboards, and customer insights.
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
@@ -4171,6 +4170,7 @@
 ## python 
 
 - [Belugary/wx-data-toolkit](https://github.com/Belugary/wx-data-toolkit) - Local-only WeChat 4.0 data toolkit: export chat history, images, Moments. Real-time stream + Claude MCP. Windows / macOS / Linux.
+- [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [jones2000/HQChart](https://github.com/jones2000/HQChart) - HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口
