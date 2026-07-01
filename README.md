@@ -674,6 +674,7 @@
 
 ## C++ 
 
+- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
 - [neuks/Indicator](https://github.com/neuks/Indicator) - 通达信缠论可视化分析插件
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization in Python
@@ -789,6 +790,7 @@
 
 ## Go 
 
+- [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
@@ -1044,6 +1046,7 @@
 
 ## Java 
 
+- [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
@@ -1060,7 +1063,6 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
@@ -1091,6 +1093,7 @@
 - [javabloger/yuqing](https://github.com/javabloger/yuqing) - 思通舆情 是一款开源免费的舆情系统，支持本地化部署。支持对海量的舆情数据进行多维交叉分析和深度挖掘,为用户户提供全面的舆情数据,专业的舆情分析。
 - [seregonwar/crx-extension-downloader](https://github.com/seregonwar/crx-extension-downloader) - A simple JavaScript script to download Chrome extensions in .crx format directly from a Chrome Web Store page.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+- [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 | OpenWRT Firmware
 - [tonyzhou1890/reader2](https://github.com/tonyzhou1890/reader2) - 使用 canvas 实现的阅读器
 - [tinajs/tina](https://github.com/tinajs/tina) - :dancer: 一款轻巧的渐进式微信小程序框架
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1508,7 +1511,7 @@
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
 - [zihan987/wsl2-config](https://github.com/zihan987/wsl2-config) - About WSL2 config.
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年6月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [huxiangzheng/Books_YaoChao_Finance](https://github.com/huxiangzheng/Books_YaoChao_Finance) - 我收集的金融类书籍
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [CodeBang06/tdx-index-formula-source-code](https://github.com/CodeBang06/tdx-index-formula-source-code) - 通达信指标公式金钻合集主图副图选股公式300+，通达信同花顺大智慧指标公式因为书写比较简单，所以在股民中的应用非常广，操作用法也比较简单。
@@ -1687,7 +1690,7 @@
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
-- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2026年6月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,p
+- [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2026年7月更新🚀苹果美区账号 APPLE ID🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点,翻墙梯子，Openai ChatGPT,代理,p
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
@@ -1835,6 +1838,7 @@
 
 ## Rust 
 
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [artiga033/ntdb_unwrap](https://github.com/artiga033/ntdb_unwrap) - 一键解密/解析 NTQQ 数据库！
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [H3CoF6/wechat-decrypt-rs](https://github.com/H3CoF6/wechat-decrypt-rs) - rust编写的 安全·快速 的非侵入式微信数据库/图片缓存 解密工具
@@ -1889,6 +1893,7 @@
 
 ## Shell 
 
+- [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
@@ -1913,7 +1918,6 @@
 - [huangqian8/Cloud-N1-OpenWrt](https://github.com/huangqian8/Cloud-N1-OpenWrt) - Github Actions 自动编译 OpenWrt 固件（适配 Phicomm N1）
 - [quanjindeng/Actions_OpenWrt-Amlogic](https://github.com/quanjindeng/Actions_OpenWrt-Amlogic) - 一键编译N1盒子OpenWrt固件底包，并使用flippy的打包脚本生成指定内核版本的固件。
 - [kenzok8/openwrt_Build](https://github.com/kenzok8/openwrt_Build) - 一键多编译固件
-- [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 应用商店 (Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 - [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
@@ -2050,8 +2054,8 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。https://leek.fund/
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子插件，一套扩展，跑遍 VS Code 生态。实时行情贴在编辑器里，不打断编译、调试和 AI 对话。
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
