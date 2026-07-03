@@ -61,6 +61,7 @@
 ## Astro 
 
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## AutoIt 
 
@@ -729,7 +730,6 @@
 - [select2/select2-bootstrap-theme](https://github.com/select2/select2-bootstrap-theme) - A Select2 v4 Theme for Bootstrap 3
 - [lordmos/Natrium](https://github.com/lordmos/Natrium) - Natrium - Angular Admin Auto Generator
 - [wepayui/wepayui](https://github.com/wepayui/wepayui) - 微信支付场景化组件
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [creativetimofficial/light-bootstrap-dashboard](https://github.com/creativetimofficial/light-bootstrap-dashboard) - Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple.
 - [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
 - [markusslima/bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle) - jQuery customization of input html file for Bootstrap Twitter
@@ -1070,7 +1070,7 @@
 - [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 - [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
 - [mingjunli/GithubApp](https://github.com/mingjunli/GithubApp) - A Github Client App with MVP architecture use Dagger2, RxJava, Retrofit, Okhttp
 
@@ -1401,7 +1401,7 @@
 - [Unitech/gridcontrol](https://github.com/Unitech/gridcontrol) - Networked Process Manager to execute functions in a Computer Grid
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [thunks/tman](https://github.com/thunks/tman) - T-man: Super test manager for JavaScript.
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [Lucifier129/react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React v15.x that optimizes for small script size
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
