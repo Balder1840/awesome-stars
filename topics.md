@@ -3663,7 +3663,7 @@
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [nanhantianyi/rpi-backup](https://github.com/nanhantianyi/rpi-backup) - raspberry pi backup，树莓派系统备份，最小镜像备份
-- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Kungfu
+- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Kungfu - Agent Work Ledger
 - [jealous/stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 - [TDGarden/stock-watch](https://github.com/TDGarden/stock-watch) - VS code 股票插件 边写代码边看股票 支持A股 港股 美股
 - [DannyFeliz/vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
@@ -3887,7 +3887,7 @@
 - [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
 - [leastprivilege/AspNetCoreSecuritySamples](https://github.com/leastprivilege/AspNetCoreSecuritySamples) - Samples for various ASP.NET Core Security Features
 - [zkweb-framework/ZKWeb](https://github.com/zkweb-framework/ZKWeb) - A flexible web framework supports .Net Framework and .Net Core
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [dotnet-architecture/PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core Application Performance Monitor
 - [microsoft/IIS.Administration](https://github.com/microsoft/IIS.Administration) - REST API for managing IIS
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
