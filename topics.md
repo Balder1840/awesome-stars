@@ -3674,7 +3674,7 @@
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [nanhantianyi/rpi-backup](https://github.com/nanhantianyi/rpi-backup) - raspberry pi backup，树莓派系统备份，最小镜像备份
-- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - A local-first runtime that records real-world agent work and verifies what actually got done.
+- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Stop rebuilding project context for every new agent session. Let every agent pick up where the work left off.
 - [jealous/stockstats](https://github.com/jealous/stockstats) - Supply a wrapper ``StockDataFrame`` based on the ``pandas.DataFrame`` with inline stock statistics/indicators support.
 - [TDGarden/stock-watch](https://github.com/TDGarden/stock-watch) - VS code 股票插件 边写代码边看股票 支持A股 港股 美股
 - [DannyFeliz/vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
