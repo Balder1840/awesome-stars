@@ -700,7 +700,7 @@
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - A local-first runtime that records real-world agent work and verifies what actually got done.
+- [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) - Stop rebuilding project context for every new agent session. Let every agent pick up where the work left off.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Trojan-Qt5/Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) - Removed due to regulation
 - [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
