@@ -128,6 +128,7 @@
 
 ## C# # 
 
+- [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET  built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 - [modelingevolution/canopen](https://github.com/modelingevolution/canopen) - Layer-1 CANopen protocol client over Linux SocketCAN (NMT/SDO/PDO). CANopen analog of ModelingEvolution.Modbus.
 - [Noface07/CAN](https://github.com/Noface07/CAN) - RawCAN and CANopen implemented using SocketCANSharp.
 - [pkuyo/CanKit](https://github.com/pkuyo/CanKit) - a cross-platform, multi-vendor unified C# high-performance CAN (Controller Area Network) library
@@ -1083,7 +1084,6 @@
 ## JavaScript 
 
 - [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
-- [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
 - [v-plugin/vfit](https://github.com/v-plugin/vfit) - vfit.js 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [ejacobhayes/parsecio](https://github.com/ejacobhayes/parsecio) - 🐿️ A blazing-fast, self-updating dashboard for your GitHub stars — smartly categorized, beautifully designed, and fully static with zero dependencies.
 - [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
@@ -1982,6 +1982,7 @@
 
 ## TypeScript 
 
+- [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
@@ -2065,7 +2066,7 @@
 - [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor) - 👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子插件，兼容 VS Code 生态编辑器。在你用 AI 专注于写代码的同时，它在后台实时且隐蔽地追踪着市场，绝不打断你的任何工作流。
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
