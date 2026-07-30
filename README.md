@@ -797,16 +797,17 @@
 
 ## Go 
 
+- [esrrhs/spp](https://github.com/esrrhs/spp) - A simple and powerful proxy
 - [angelodlfrtr/go-canopen](https://github.com/angelodlfrtr/go-canopen) - Canopen implementation in golang
 - [samsamfire/gocanopen](https://github.com/samsamfire/gocanopen) - A pure go CANopen stack
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [0x032c/chatlog](https://github.com/0x032c/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [pingguoge001-coder/chatlog](https://github.com/pingguoge001-coder/chatlog) - 微信聊天记录工具包：chatlog 自动启动脚本 + SNS 增强版（支持朋友圈/微信收藏/联系人标签）
-- [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
 - [Jingdong-Liu/chatlog](https://github.com/Jingdong-Liu/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [imldy/chatlog](https://github.com/imldy/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [superShen0916/wechat-export](https://github.com/superShen0916/wechat-export) - 微信聊天记录导出工具（macOS）：纯 Go 实现 SQLCipher 解密，支持 JSON/CSV/HTML
@@ -1516,6 +1517,7 @@
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 - [QQBackup/sqlcipher-github-actions](https://github.com/QQBackup/sqlcipher-github-actions) - Compile SQLCipher for Windows with GitHub Actions (statically linked + dynamically linked)
+- [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
@@ -1526,7 +1528,6 @@
 - [huxiangzheng/Books_YaoChao_Finance](https://github.com/huxiangzheng/Books_YaoChao_Finance) - 我收集的金融类书籍
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [CodeBang06/tdx-index-formula-source-code](https://github.com/CodeBang06/tdx-index-formula-source-code) - 通达信指标公式金钻合集主图副图选股公式300+，通达信同花顺大智慧指标公式因为书写比较简单，所以在股民中的应用非常广，操作用法也比较简单。
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [neitsab/awesome-oracle-cloud-free-tier](https://github.com/neitsab/awesome-oracle-cloud-free-tier) - Curated list of awesome resources to make the best out of Oracle Cloud Infrastructure Free Tier
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2026
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
@@ -1849,6 +1850,9 @@
 
 ## Rust 
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
@@ -1985,7 +1989,6 @@
 ## TypeScript 
 
 - [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
 - [xlight/chatlog-session](https://github.com/xlight/chatlog-session) - 基于 web 的远程微信，很适合把微信挂在nas上使用，你熟悉的聊天界面——能看、能搜、能导出，还能直接回消息。
@@ -2005,6 +2008,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
@@ -2102,7 +2106,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
