@@ -516,7 +516,7 @@
 - [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
 - [brthor/Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core.
 - [JimBobSquarePants/ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
-- [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+- [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Core Minimal APIs, Controllers, gRPC, OData, and Web API (Classic).
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 
 ## automation 
