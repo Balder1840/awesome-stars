@@ -4684,7 +4684,7 @@
 
 ## server 
 
-- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C#
+- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5/MASQUE proxy server
 - [dotnet/WatsonTcp](https://github.com/dotnet/WatsonTcp) - WatsonTcp is the easiest way to build TCP-based clients and servers in C#.
@@ -4858,7 +4858,7 @@
 
 ## telegram 
 
-- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C#
+- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 
