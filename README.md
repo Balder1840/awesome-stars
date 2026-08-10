@@ -174,7 +174,7 @@
 - [vipwan/Biwen.EFCore.UseRowNumberForPaging](https://github.com/vipwan/Biwen.EFCore.UseRowNumberForPaging) - Biwen.EFCore.UseRowNumberForPaging
 - [MarvinDrude/MNet](https://github.com/MarvinDrude/MNet) - Fast TCP Server/Client in C# .NET 8 and newer using techniques similar to kestrel internal
 - [davidfowl/BedrockFramework](https://github.com/davidfowl/BedrockFramework) - High performance, low level networking APIs for building custom servers and clients.
-- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C#
+- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [xljiulang/KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
 - [xljiulang/Influxdb2.Client](https://github.com/xljiulang/Influxdb2.Client) - Influxdb2的.net高性能客户端库，读写性能为官方客户端库的180%
 - [xljiulang/AwaitableCompletionSource](https://github.com/xljiulang/AwaitableCompletionSource) - AwaitableCompletionSource在多个场景下可替代TaskCompletionSource，更少的cpu时间和内存分配。
@@ -1251,7 +1251,6 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -2120,6 +2119,7 @@
 - [guryanovev/CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) - pluggable UI for Quartz.NET
 - [PeterDing/chord](https://github.com/PeterDing/chord) - Chord - A Modern Music Player
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
