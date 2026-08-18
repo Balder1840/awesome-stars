@@ -189,7 +189,7 @@
 - [drlivsi/Ocelot.SignalR.Demo](https://github.com/drlivsi/Ocelot.SignalR.Demo) - Example of using the Ocelot Api Gateway and SignalR hubs behind a load balancer with a MassTransit RabbitMQ backplane.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) - Attach the WSL2 virtual machine to a Hyper-V virtual switch.
