@@ -3412,7 +3412,7 @@
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
 - [injoyai/tdx](https://github.com/injoyai/tdx) - 通达信的协议解析,用于获取股票信息
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
 - [Qliangw/openwrt-x86_64-qw](https://github.com/Qliangw/openwrt-x86_64-qw) - 自用op,只为干净稳定旁路,不需要太多插件.
