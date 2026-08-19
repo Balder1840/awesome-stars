@@ -838,7 +838,7 @@
 - [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
 - [simpleinjector/SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
-- [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
+- [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - The Redis client for .NET
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
@@ -3366,7 +3366,6 @@
 - [zhaosj0315/WcbackMac](https://github.com/zhaosj0315/WcbackMac) - Mac 版微信聊天记录解密、导出、Web查看工具
 - [superShen0916/wechat-export](https://github.com/superShen0916/wechat-export) - 微信聊天记录导出工具（macOS）：纯 Go 实现 SQLCipher 解密，支持 JSON/CSV/HTML
 - [gitstq/wechatlog-explorer](https://github.com/gitstq/wechatlog-explorer) - 微信聊天记录智能探索工具 - Smart WeChat chat history exploration tool with semantic search
-- [fclwtt/wechat-cli](https://github.com/fclwtt/wechat-cli) - WeChat CLI - 查询个人微信聊天记录，支持 Windows/macOS/Linux
 - [caigee-cmd/wechat-insight](https://github.com/caigee-cmd/wechat-insight) - 本地优先的微信聊天记录分析工具（macOS）：export messages, generate reports, dashboards, and customer insights.
 - [H3CoF6/wechat-decrypt-rs](https://github.com/H3CoF6/wechat-decrypt-rs) - rust编写的 安全·快速 的非侵入式微信数据库/图片缓存 解密工具
 - [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能
