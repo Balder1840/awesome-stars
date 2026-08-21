@@ -129,6 +129,7 @@
 
 ## C# # 
 
+- [yoav-melamed/serilog-sinks-asyncfile](https://github.com/yoav-melamed/serilog-sinks-asyncfile) - An advanced file sink for Serilog that writes events to files in plain text.
 - [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET  built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Supercharged .NET server side development!
 - [Spreads/Spreads](https://github.com/Spreads/Spreads) - Series and Panels for Real-time and Exploratory Analysis of Data Streams
@@ -674,7 +675,7 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [StackExchange/StackExchange.Precompilation](https://github.com/StackExchange/StackExchange.Precompilation) - Roslyn based csc.exe and aspnet_compiler.exe replacement with metaprogramming hooks for ASP.NET MVC projects from the pre-DNX era
-- [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
+- [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - The Redis client for .NET
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
@@ -866,7 +867,7 @@
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [go-gost/gosocks5](https://github.com/go-gost/gosocks5) - golang and SOCKS5
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [ZeroDream-CN/SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp) - 基于 Frp 二次开发定制的版本，可实现多用户管理、限速等商业化功能
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -1110,6 +1111,7 @@
 - [seregonwar/crx-extension-downloader](https://github.com/seregonwar/crx-extension-downloader) - A simple JavaScript script to download Chrome extensions in .crx format directly from a Chrome Web Store page.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 | OpenWRT Firmware
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tonyzhou1890/reader2](https://github.com/tonyzhou1890/reader2) - 使用 canvas 实现的阅读器
 - [tinajs/tina](https://github.com/tinajs/tina) - :dancer: 一款轻巧的渐进式微信小程序框架
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1692,7 +1694,6 @@
 - [zhaosj0315/WcbackMac](https://github.com/zhaosj0315/WcbackMac) - Mac 版微信聊天记录解密、导出、Web查看工具
 - [gitstq/wechatlog-explorer](https://github.com/gitstq/wechatlog-explorer) - 微信聊天记录智能探索工具 - Smart WeChat chat history exploration tool with semantic search
 - [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
-- [fclwtt/wechat-cli](https://github.com/fclwtt/wechat-cli) - WeChat CLI - 查询个人微信聊天记录，支持 Windows/macOS/Linux
 - [caigee-cmd/wechat-insight](https://github.com/caigee-cmd/wechat-insight) - 本地优先的微信聊天记录分析工具（macOS）：export messages, generate reports, dashboards, and customer insights.
 - [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -1853,6 +1854,7 @@
 
 ## Rust 
 
+- [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) - A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -2022,7 +2024,6 @@
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternat
@@ -2149,7 +2150,7 @@
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [luiscantero/angular2-webpack-dotnet-core](https://github.com/luiscantero/angular2-webpack-dotnet-core) - Angular 9 sample using webpack, .NET Core and Visual Studio
 - [TrilonIO/aspnetcore-angular-universal](https://github.com/TrilonIO/aspnetcore-angular-universal) - ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and 
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
