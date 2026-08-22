@@ -1043,7 +1043,7 @@
 - [bopoda/ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [usmanhalalit/charisma](https://github.com/usmanhalalit/charisma) - Free, responsive, multiple skin admin template
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.
 - [mrlong/bootstrap3-validation.js](https://github.com/mrlong/bootstrap3-validation.js) - bootstrap3 validation
 - [matiasgali/bifrost](https://github.com/matiasgali/bifrost) - A jQuery Ajax transport that uses an iframe to asynchronously send files and data even if FormData, the File API and XMLHttpRequest aren't supported.
 - [puikinsh/Bootstrap-Admin-Template](https://github.com/puikinsh/Bootstrap-Admin-Template) - Metis - Free Bootstrap 5 Admin Dashboard Template
