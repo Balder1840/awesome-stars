@@ -1384,7 +1384,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -2643,7 +2643,7 @@
 
 ## jenkins 
 
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 
 ## jquery 
 
