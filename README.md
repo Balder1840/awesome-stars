@@ -43,7 +43,6 @@
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
-- [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -813,7 +812,6 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [0x032c/chatlog](https://github.com/0x032c/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-- [pingguoge001-coder/chatlog](https://github.com/pingguoge001-coder/chatlog) - 微信聊天记录工具包：chatlog 自动启动脚本 + SNS 增强版（支持朋友圈/微信收藏/联系人标签）
 - [Jingdong-Liu/chatlog](https://github.com/Jingdong-Liu/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [imldy/chatlog](https://github.com/imldy/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [superShen0916/wechat-export](https://github.com/superShen0916/wechat-export) - 微信聊天记录导出工具（macOS）：纯 Go 实现 SQLCipher 解密，支持 JSON/CSV/HTML
@@ -1066,7 +1064,7 @@
 - [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
@@ -1125,7 +1123,7 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [oyyd/http-proxy-to-socks](https://github.com/oyyd/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
 - [echarts-maps/echarts-mapmaker](https://github.com/echarts-maps/echarts-mapmaker) - :hammer: To manipulate the geojson maps for echarts usage. Stay tuned.
@@ -1212,7 +1210,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - [Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
@@ -1266,7 +1264,6 @@
 - [fengyuanchen/cropper](https://github.com/fengyuanchen/cropper) - ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper
 - [scottcheng/cropit](https://github.com/scottcheng/cropit) - A "customizable crop and zoom" jQuery plugin.
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1511,6 +1508,7 @@
 ## OCaml 
 
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Objective-J 
 
@@ -1606,6 +1604,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
@@ -1691,7 +1690,6 @@
 - [HwFee/qq-monitor](https://github.com/HwFee/qq-monitor) - QQ班级群监控脚本 - 自动提取和解密NTQQ消息，推送到服务器
 - [QQBackup/QQ-History-Backup](https://github.com/QQBackup/QQ-History-Backup) - 【停更】QQ/TIM 聊天记录导出为 HTML，支持图片、语音，可 GUI 与 非 GUI 操作 (Python)
 - [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) - 全平台 QQ 聊天数据库解密
-- [zhaosj0315/WcbackMac](https://github.com/zhaosj0315/WcbackMac) - Mac 版微信聊天记录解密、导出、Web查看工具
 - [gitstq/wechatlog-explorer](https://github.com/gitstq/wechatlog-explorer) - 微信聊天记录智能探索工具 - Smart WeChat chat history exploration tool with semantic search
 - [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
 - [caigee-cmd/wechat-insight](https://github.com/caigee-cmd/wechat-insight) - 本地优先的微信聊天记录分析工具（macOS）：export messages, generate reports, dashboards, and customer insights.
@@ -1827,10 +1825,6 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [drj11/pdftables](https://github.com/drj11/pdftables) - A library for extracting tables from PDF files
 - [ashima/pdf-table-extract](https://github.com/ashima/pdf-table-extract) - Extract tables from PDF pages.
-
-## ReScript 
-
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Rich Text Format 
 
