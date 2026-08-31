@@ -2315,7 +2315,7 @@
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5/MASQUE proxy server
 - [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions. Maintenance mode now, please switch to use [VEY](https://github.com/VEY-OSS/vey) for new development efforts
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [imgk/shadow](https://github.com/imgk/shadow) - A rule-based transparent proxy for Windows, Linux, macOS
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [RRQM/TouchSocket](https://github.com/RRQM/TouchSocket) - TouchSocket is an integrated .NET networking framework that includes modules for socket, TCP, UDP, SSL, named pipes, HTTP, WebSocket, RPC, and more. It offers a one-stop solution for TCP packet issues
@@ -4661,6 +4661,7 @@
 
 ## self-hosted 
 
+- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [djylb/nps](https://github.com/djylb/nps) - NPS Enhanced — Lightweight intranet tunneling and reverse proxy with Web UI | NPS 内网穿透 反向代理 增强版 全修 新版 二开
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
