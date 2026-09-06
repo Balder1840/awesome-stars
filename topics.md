@@ -1478,7 +1478,7 @@
 - [alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first var
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [baetyl/baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2079,7 +2079,7 @@
 - [baetyl/baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -2748,7 +2748,7 @@
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -4644,7 +4644,7 @@
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID,  OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [guardrailsio/awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
