@@ -375,7 +375,7 @@
 ## algorithmic-trading 
 
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
@@ -1262,7 +1262,7 @@
 ## data-science 
 
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1770,7 +1770,7 @@
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization in Python
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [matplotlib/mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -1863,7 +1863,7 @@
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
 - [revan-zhang/100-lines-of-code-challenge-js](https://github.com/revan-zhang/100-lines-of-code-challenge-js) - Write Everything in JavaScript under 100 Lines!!!:smiling_imp:
@@ -2224,7 +2224,7 @@
 - [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
 - [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
@@ -2930,7 +2930,7 @@
 
 ## machine-learning 
 
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) - The world's simplest facial recognition api for .NET on Windows, MacOS and Linux
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
@@ -3239,7 +3239,7 @@
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 
 ## nodejs 
@@ -3634,7 +3634,7 @@
 - [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [Azure/iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
@@ -4257,7 +4257,7 @@
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [jackyin68/pyprofiling](https://github.com/jackyin68/pyprofiling) - 通达信股票数据处理，股价预测，性能分析，特征选择
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -4384,7 +4384,7 @@
 
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization in Python
-- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance) - Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -5219,7 +5219,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
