@@ -3453,7 +3453,6 @@
 - [plinioseniore/zscaler-bypass](https://github.com/plinioseniore/zscaler-bypass) - Bypass ZScaler Restrictions
 - [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
 - [ryanchapman/go-any-proxy](https://github.com/ryanchapman/go-any-proxy) - A transparent tcp proxy (no decryption necessary) (golang). It can forward to upstream proxies (e.g. corporate) and CONNECT on any port through an upstream proxy, giving internet access to external in
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [x-nas/WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) - WPE x64 is a Windows software that can intercept and modify WinSock packets, with adaptive support for 32-bit and 64 bit target programs WPE x64 是一款可以拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序
 - [yeahwu/image](https://github.com/yeahwu/image) - 
