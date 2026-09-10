@@ -43,7 +43,6 @@
 - [Pug](#pug)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1824,10 +1823,6 @@
 ## Rich Text Format 
 
 - [SheetJS/js-word](https://github.com/SheetJS/js-word) - :black_nib: Word Processing Document Library
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
