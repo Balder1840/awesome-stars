@@ -1851,7 +1851,7 @@
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
@@ -1987,7 +1987,7 @@
 
 ## TypeScript 
 
-- [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A pure, versatile open source download manager
+- [AnInsomniacy/rayburst](https://github.com/AnInsomniacy/rayburst) - Redefining the open-source download manager
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
 - [xlight/chatlog-session](https://github.com/xlight/chatlog-session) - 基于 web 的远程微信，很适合把微信挂在nas上使用，你熟悉的聊天界面——能看、能搜、能导出，还能直接回消息。
