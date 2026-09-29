@@ -189,11 +189,11 @@
 - [drlivsi/Ocelot.SignalR.Demo](https://github.com/drlivsi/Ocelot.SignalR.Demo) - Example of using the Ocelot Api Gateway and SignalR hubs behind a load balancer with a MassTransit RabbitMQ backplane.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
-- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) - Attach the WSL2 virtual machine to a Hyper-V virtual switch.
-- [teo-tsirpanis/Farkle](https://github.com/teo-tsirpanis/Farkle) - LALR parser combinators for C# and F#.
+- [teo-tsirpanis/Farkle](https://github.com/teo-tsirpanis/Farkle) - The most advanced LR(1) parsing library for C# and F#
 - [benjamin-hodgson/Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight and fast parsing library for C#.
 - [datalust/superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 - [sprache/Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
@@ -888,7 +888,7 @@
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Mr-Destructive/100-days-of-golang](https://github.com/Mr-Destructive/100-days-of-golang) - Scripts and Resources for the 100 days of golang series (In progress)
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1113,7 +1113,6 @@
 - [seregonwar/crx-extension-downloader](https://github.com/seregonwar/crx-extension-downloader) - A simple JavaScript script to download Chrome extensions in .crx format directly from a Chrome Web Store page.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 | OpenWRT Firmware
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tonyzhou1890/reader2](https://github.com/tonyzhou1890/reader2) - 使用 canvas 实现的阅读器
 - [tinajs/tina](https://github.com/tinajs/tina) - :dancer: 一款轻巧的渐进式微信小程序框架
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1212,6 +1211,7 @@
 - [xdan/datetimepicker](https://github.com/xdan/datetimepicker) - jQuery Plugin Date and Time Picker
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [PatrickJS/angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - Angular Webpack Starter
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
@@ -1522,7 +1522,6 @@
 - [QQBackup/sqlcipher-github-actions](https://github.com/QQBackup/sqlcipher-github-actions) - Compile SQLCipher for Windows with GitHub Actions (statically linked + dynamically linked)
 - [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [jovton/USB-Storage-on-WSL2](https://github.com/jovton/USB-Storage-on-WSL2) - This article describes how you can access your USB storage device from Microsoft's Windows Subsystem for Linux 2 (WSL2)
@@ -1991,6 +1990,7 @@
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
 - [xlight/chatlog-session](https://github.com/xlight/chatlog-session) - 基于 web 的远程微信，很适合把微信挂在nas上使用，你熟悉的聊天界面——能看、能搜、能导出，还能直接回消息。
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gant
 - [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -2018,6 +2018,7 @@
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternat
@@ -2102,7 +2103,6 @@
 - [ankurk91/vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) - Vue.js component for Flatpickr datetime picker  :calendar:
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
