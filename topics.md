@@ -1468,7 +1468,7 @@
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [malikmasis/TelephoneDirectory](https://github.com/malikmasis/TelephoneDirectory) - microservices-&gt; .net 8, golang - Docker, Tye, Dapr, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elasticsearch, kibana, jwt
 - [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [klutchell/unbound-docker](https://github.com/klutchell/unbound-docker) - unofficial unbound multiarch docker image
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
@@ -2001,7 +2001,7 @@
 - [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
@@ -2153,7 +2153,7 @@
 - [TiCodeX/SQLSchemaCompare](https://github.com/TiCodeX/SQLSchemaCompare) - TiCodeX SQL Schema Compare
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [teo-tsirpanis/Farkle](https://github.com/teo-tsirpanis/Farkle) - LALR parser combinators for C# and F#.
+- [teo-tsirpanis/Farkle](https://github.com/teo-tsirpanis/Farkle) - The most advanced LR(1) parsing library for C# and F#
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
@@ -3005,7 +3005,7 @@
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -3319,6 +3319,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -3421,7 +3422,7 @@
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
-- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper
 - [injoyai/tdx](https://github.com/injoyai/tdx) - 通达信的协议解析,用于获取股票信息
 - [moby/vpnkit](https://github.com/moby/vpnkit) - A toolkit for embedding VPN capabilities in your application
 - [Qliangw/openwrt-x86_64-qw](https://github.com/Qliangw/openwrt-x86_64-qw) - 自用op,只为干净稳定旁路,不需要太多插件.
@@ -4442,7 +4443,7 @@
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -4682,7 +4683,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [Loophole-LLC/Bastillion](https://github.com/Loophole-LLC/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
@@ -4815,7 +4816,7 @@
 - [PawelGerr/Thinktecture.EntityFrameworkCore](https://github.com/PawelGerr/Thinktecture.EntityFrameworkCore) - A focused EF Core extension library that adds high‑performance bulk operations, temp‑table support, and other practical SQL enhancements for real‑world applications.
 - [khellang/EFCore.Sqlite.NodaTime](https://github.com/khellang/EFCore.Sqlite.NodaTime) - Adds support for NodaTime types when using SQLite with Entity Framework Core.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
 - [alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first var
 - [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - .NET aot orm, VB.NET/C# orm, Mysql/PostgreSQL/SqlServer/Oracle orm, Sqlite/Firebird/Clickhouse/DuckDB orm, 达梦/金仓/虚谷/翰高/高斯 orm, 神通 orm, 南大通用 orm, 国产 orm, TDengine orm, QuestDB orm, MsAccess orm.
