@@ -802,7 +802,7 @@
 ## Go 
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [esrrhs/spp](https://github.com/esrrhs/spp) - A simple and powerful proxy
+- [esrrhs/spp](https://github.com/esrrhs/spp) - A versatile, high-performance network proxy and traffic-forwarding tool written in Go
 - [angelodlfrtr/go-canopen](https://github.com/angelodlfrtr/go-canopen) - Canopen implementation in golang
 - [samsamfire/gocanopen](https://github.com/samsamfire/gocanopen) - A pure go CANopen stack
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
