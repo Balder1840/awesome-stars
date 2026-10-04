@@ -282,6 +282,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xamarin](#xamarin)
@@ -3357,7 +3358,7 @@
 - [Spreads/Spreads](https://github.com/Spreads/Spreads) - Series and Panels for Real-time and Exploratory Analysis of Data Streams
 - [disruptor-net/Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
 - [Cysharp/ZLogger](https://github.com/Cysharp/ZLogger) - Zero Allocation Text/Structured Logger for .NET with StringInterpolation and Source Generator, built on top of a Microsoft.Extensions.Logging.
-- [esrrhs/spp](https://github.com/esrrhs/spp) - A simple and powerful proxy
+- [esrrhs/spp](https://github.com/esrrhs/spp) - A versatile, high-performance network proxy and traffic-forwarding tool written in Go
 - [modelingevolution/canopen](https://github.com/modelingevolution/canopen) - Layer-1 CANopen protocol client over Linux SocketCAN (NMT/SDO/PDO). CANopen analog of ModelingEvolution.Modbus.
 - [Noface07/CAN](https://github.com/Noface07/CAN) - RawCAN and CANopen implemented using SocketCANSharp.
 - [schoeggel/CANopenHelper](https://github.com/schoeggel/CANopenHelper) - Decode cia-402 statusword value to individual named bits
@@ -5390,6 +5391,12 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [andreaskoch/allmark](https://github.com/andreaskoch/allmark) - A cross-platform markdown web server
+
+## windows-11 
+
+- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+- [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## wordpress 
 
