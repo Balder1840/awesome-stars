@@ -330,7 +330,7 @@
 - [DapperLib/Dapper.Contrib](https://github.com/DapperLib/Dapper.Contrib) - Dapper community contributions - additional extensions for Dapper
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [tmsmith/Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) - Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provi
-- [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
+- [tanvirarjel/EFCore.GenericRepository](https://github.com/tanvirarjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [itext/itext-dotnet](https://github.com/itext/itext-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the bene
 - [skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin) - Modern admin UI for Duende IdentityServer and ASP.NET Core Identity 🚀
 - [NetDevPack/Security.Jwt](https://github.com/NetDevPack/Security.Jwt) - Jwt Manager. Set of components to deal with Jwt Stuff. Automate your key rotating, add support for jwks_uri. Store your cryptography keys in a secure place.
@@ -1131,6 +1131,7 @@
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
 - [echarts-maps/echarts-mapmaker](https://github.com/echarts-maps/echarts-mapmaker) - :hammer: To manipulate the geojson maps for echarts usage. Stay tuned.
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -1778,7 +1779,6 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [mysql/mysql-operator](https://github.com/mysql/mysql-operator) - MySQL Operator for Kubernetes
 - [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
