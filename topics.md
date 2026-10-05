@@ -1113,7 +1113,7 @@
 - [Sergio0694/BinaryPack](https://github.com/Sergio0694/BinaryPack) - The fastest and most memory efficient binary serialization library for .NET Standard 2.1, powered by dynamic IL generation
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [zzzprojects/Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus) - Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
-- [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
+- [tanvirarjel/EFCore.GenericRepository](https://github.com/tanvirarjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -1308,7 +1308,7 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、
 - [SimpleStack/simplestack.orm](https://github.com/SimpleStack/simplestack.orm) - SimpleStack.Orm is a layer on top of Dapper project that generate SQL queries based on lambda expressions
-- [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
+- [tanvirarjel/EFCore.GenericRepository](https://github.com/tanvirarjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
