@@ -1301,6 +1301,9 @@
 
 ## database 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
@@ -1369,6 +1372,7 @@
 
 ## developer-tools 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
 - [ejacobhayes/parsecio](https://github.com/ejacobhayes/parsecio) - 🐿️ A blazing-fast, self-updating dashboard for your GitHub stars — smartly categorized, beautifully designed, and fully static with zero dependencies.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -3298,6 +3302,7 @@
 
 ## nosql 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -4597,6 +4602,7 @@
 
 ## rust 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -4721,6 +4727,7 @@
 
 ## serverless 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -4784,6 +4791,8 @@
 
 ## sql 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [zompinc/efcore-extensions](https://github.com/zompinc/efcore-extensions) - Provides window (analytics) functions and binary functions for EF Core. Providers: SQL Server, SQLite, Postgres.
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -4820,6 +4829,7 @@
 
 ## sqlite 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [QQBackup/sqlcipher-github-actions](https://github.com/QQBackup/sqlcipher-github-actions) - Compile SQLCipher for Windows with GitHub Actions (statically linked + dynamically linked)
 - [zompinc/efcore-extensions](https://github.com/zompinc/efcore-extensions) - Provides window (analytics) functions and binary functions for EF Core. Providers: SQL Server, SQLite, Postgres.
 - [PawelGerr/Thinktecture.EntityFrameworkCore](https://github.com/PawelGerr/Thinktecture.EntityFrameworkCore) - A focused EF Core extension library that adds high‑performance bulk operations, temp‑table support, and other practical SQL enhancements for real‑world applications.
@@ -5282,6 +5292,7 @@
 
 ## web 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [casual-silva/NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情新闻爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑  an enterprise-grade public opinion news crawler project: supports one-click operation of any number of c
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
