@@ -727,7 +727,6 @@
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [mdo/preboot](https://github.com/mdo/preboot) - A collection of LESS mixins and variables for writing better CSS.
-- [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
 - [markserv/markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [lukehaas/css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
@@ -973,7 +972,7 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [weaveworks/mesh](https://github.com/weaveworks/mesh) - A tool for building distributed applications.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [aerth/markdownd](https://github.com/aerth/markdownd) - simple markdown server (optional indexing, no symlinks) report bugs: https://github.com/aerth/markdownd/issues (Heroku takes a couple seconds to load. Patience...)
+- [aerth/markdownd](https://github.com/aerth/markdownd) - simple markdown server (optional indexing, no symlinks)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -985,7 +984,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Make your infrastructure invisible to attackers. OpenNHP implements the Network-infrastructure Hiding Protocol (NHP): authenticate before connection, cryptographically. IETF draft.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1125,7 +1124,6 @@
 - [MackinnonBuck/blazor-page-script](https://github.com/MackinnonBuck/blazor-page-script) - A Blazor component enabling per-page JavaScript initialization logic in statically rendered Blazor Web apps
 - [doomclouds/Palink.Markdown](https://github.com/doomclouds/Palink.Markdown) - Blazor Markdown Editor And Html Render
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
@@ -1200,6 +1198,7 @@
 - [Tencent/kbone](https://github.com/Tencent/kbone) - 一个致力于微信小程序和 Web 端同构的解决方案
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [djyde/ToProgress](https://github.com/djyde/ToProgress) - A lightweight top progress bar
+- [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
 - [AndIMissU/Stars](https://github.com/AndIMissU/Stars) - 🌚 仿知识星球App 🌝（微信小程序）
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [ly525/luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
@@ -1719,6 +1718,7 @@
 - [slippersheepig/oracle_arm](https://github.com/slippersheepig/oracle_arm) - 甲骨文注册ARM实例（仅适用于密钥登录）
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) - Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
+- [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [white-seolpyo/seolpyo-mplchart](https://github.com/white-seolpyo/seolpyo-mplchart) - Fast candlestick chart using Python.\nIncludes navigator, slider, navigation, and text information display functions
@@ -1923,7 +1923,6 @@
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [Qliangw/openwrt-x86_64-qw](https://github.com/Qliangw/openwrt-x86_64-qw) - 自用op,只为干净稳定旁路,不需要太多插件.
 - [snail007/proxy_admin_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
-- [bkahlert/kill-zscaler](https://github.com/bkahlert/kill-zscaler) - Kill Zscaler without password or jail Zscaler in a virtual machine
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 - [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
 - [yeahwu/image](https://github.com/yeahwu/image) - 
@@ -1954,7 +1953,7 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [ryanmroth/freshid](https://github.com/ryanmroth/freshid) - Randomize system hostname and machine-id on Linux at boot. Useful for pentesting, privacy, or any scenario requiring a fresh identity each boot.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -2027,6 +2026,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [MrXujiang/Nocode-Wep](https://github.com/MrXujiang/Nocode-Wep) - 一款轻量WPS替代品，面向AI，面向未来
 - [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
@@ -2109,6 +2109,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2196,7 +2197,6 @@
 - [ZestfulNation/vue-hotel-datepicker](https://github.com/ZestfulNation/vue-hotel-datepicker) - A  VueJS v3 responsive date range picker. Displays the number of nights selected and allow several useful options like custom check-in/check-out rules, localization support and more.
 - [rubanraj54/vue-bootstrap4-table](https://github.com/rubanraj54/vue-bootstrap4-table) - Advanced table based on Vue 2 and Bootstrap 4 ⚡️
 - [zengjielin/vue-component-library](https://github.com/zengjielin/vue-component-library) - vue高度定制化常用的一些组件，progress,switch,loading
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ratiw/vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
 - [huangche007/vue-jd](https://github.com/huangche007/vue-jd) - 基于nodejs+mysql实现的仿京东商城项目
 - [scarecrowdu/vue-webapp](https://github.com/scarecrowdu/vue-webapp) - Ego 移动端购物商城 (vue+vuex-ruoter+webpack)
