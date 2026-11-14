@@ -148,6 +148,7 @@
 - [json](#json)
 - [julia](#julia)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -169,6 +170,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -300,7 +302,7 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
@@ -321,6 +323,7 @@
 
 ## ai 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -328,7 +331,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [jihadkhawaja/Egroo](https://github.com/jihadkhawaja/Egroo) - A refined social platform for humans and AI agents. Private by default. Yours by design.
@@ -355,6 +358,7 @@
 
 ## ai-agents 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
@@ -472,7 +476,7 @@
 - [mmacneil/AngularASPNETCore2WebApiAuth](https://github.com/mmacneil/AngularASPNETCore2WebApiAuth) - Sample project demonstrating jwt-based authentication with an Angular (v5.2.1) frontend and ASP.NET Core 2 WebApi.  Includes both local user registration with .NET Core Identity membership and faceboo
 - [damienbod/AspNetCoreMvcAngular](https://github.com/damienbod/AspNetCoreMvcAngular) - ASP.NET Core MVC with angular in MVC View OpenID Connect Hybrid Flow
 - [damienbod/AngularWebpackVisualStudio](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for ASP.NET Core, Angular with Webpack and Visual Studio
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [52ABP/52ABP.Template](https://github.com/52ABP/52ABP.Template) - 52ABP社区所维护的主开源仓库你所下载的项目的源代码都在这里。The main open source repository maintained by the 52ABP community is where you download the source code for your project.
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework
@@ -529,7 +533,7 @@
 ## aspnet 
 
 - [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2026 by seniority level.
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 10 and newer.
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [EEParker/aspnetcore-vueclimiddleware](https://github.com/EEParker/aspnetcore-vueclimiddleware) - Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli.
@@ -557,6 +561,7 @@
 
 ## awesome 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -608,6 +613,7 @@
 
 ## awesome-list 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -772,12 +778,12 @@
 ## bot 
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, and a live dashboard
+- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP
 - [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 ## c 
 
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [ar51an/iperf3-win-builds](https://github.com/ar51an/iperf3-win-builds) - iperf3 binaries for Windows. Benchmark your network limits.
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -859,7 +865,7 @@
 - [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
 - [simpleinjector/SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
-- [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - The Redis client for .NET
+- [seredis/StackExchange.Redis](https://github.com/seredis/StackExchange.Redis) - The Redis client for .NET
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
@@ -920,6 +926,7 @@
 ## claude 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -933,7 +940,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 
 ## cli 
 
@@ -942,7 +949,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [maxisoft/Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
@@ -1074,7 +1081,7 @@
 ## cryptocurrency 
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, and a live dashboard
+- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
@@ -1159,7 +1166,7 @@
 - [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
 - [RickStrahl/Westwind.AspNetCore](https://github.com/RickStrahl/Westwind.AspNetCore) - ASP.NET Core Helpers and Utilities
 - [brthor/Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [bradymholt/aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 3.1 / React SPA Template App
 - [thomaslevesque/NString](https://github.com/thomaslevesque/NString) - A collection of utilities for working with strings in .NET.
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
@@ -1242,7 +1249,7 @@
 
 ## cybersecurity 
 
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Make your infrastructure invisible to attackers. OpenNHP implements the Network-infrastructure Hiding Protocol (NHP): authenticate before connection, cryptographically. IETF draft.
@@ -1462,6 +1469,10 @@
 
 ## docker 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -1543,6 +1554,9 @@
 
 ## documentation 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -1667,7 +1681,7 @@
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 - [RickStrahl/Westwind.AspNetCore](https://github.com/RickStrahl/Westwind.AspNetCore) - ASP.NET Core Helpers and Utilities
 - [brthor/Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [bradymholt/aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 3.1 / React SPA Template App
 - [52ABP/52ABP.Template](https://github.com/52ABP/52ABP.Template) - 52ABP社区所维护的主开源仓库你所下载的项目的源代码都在这里。The main open source repository maintained by the 52ABP community is where you download the source code for your project.
 - [thomaslevesque/NString](https://github.com/thomaslevesque/NString) - A collection of utilities for working with strings in .NET.
@@ -1707,6 +1721,7 @@
 
 ## electron 
 
+- [tllovesxs/wandao](https://github.com/tllovesxs/wandao) - 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出,语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,
 - [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
@@ -1795,6 +1810,7 @@
 
 ## fastapi 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
 
 ## finance 
@@ -1998,6 +2014,7 @@
 
 ## go 
 
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [angelodlfrtr/go-canopen](https://github.com/angelodlfrtr/go-canopen) - Canopen implementation in golang
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
@@ -2062,6 +2079,8 @@
 
 ## golang 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [esrrhs/spp](https://github.com/esrrhs/spp) - A versatile, high-performance network proxy and traffic-forwarding tool written in Go
 - [angelodlfrtr/go-canopen](https://github.com/angelodlfrtr/go-canopen) - Canopen implementation in golang
@@ -2202,7 +2221,6 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -2747,6 +2765,12 @@
 
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- [wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视
+
 ## koa 
 
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg
@@ -2860,7 +2884,7 @@
 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [derek-will/SocketCANSharp](https://github.com/derek-will/SocketCANSharp) - .NET managed wrapper for SocketCAN on Linux
@@ -2923,7 +2947,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
@@ -2943,7 +2967,7 @@
 
 ## low-code 
 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
 - [MrXujiang/v6.dooring.public](https://github.com/MrXujiang/v6.dooring.public) - 可视化大屏解决方案, 提供一套可视化编辑引擎, 助力个人或企业轻松定制自己的可视化大屏应用.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2986,7 +3010,7 @@
 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) - The world's simplest facial recognition api for .NET on Windows, MacOS and Linux
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
@@ -3018,6 +3042,14 @@
 
 ## markdown 
 
+- [tllovesxs/wandao](https://github.com/tllovesxs/wandao) - 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出,语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
+- [cropflre/nowen-note](https://github.com/cropflre/nowen-note) - 开源自托管笔记与私有知识库，支持 Markdown/富文本、AI 写作、思维导图、任务管理、全文搜索、多级笔记本和 Docker 一键部署。
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [doem97/RFC-1928_Chinese_Edition](https://github.com/doem97/RFC-1928_Chinese_Edition) - This is an unofficial translated version of RFC-1928(SOCKS Protocol Version 5), the famous network socks design protocol.
@@ -3078,19 +3110,31 @@
 
 ## mcp 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## mcp-server 
+
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
 
@@ -3116,7 +3160,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [stevejgordon/CorrelationId](https://github.com/stevejgordon/CorrelationId) - An ASP.NET Core middleware component which synchronises a correlation ID for cross API request logging.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
@@ -3338,10 +3382,14 @@
 
 ## obsidian 
 
+- [tllovesxs/wandao](https://github.com/tllovesxs/wandao) - 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出,语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## open-source 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [caterpi11ar/wechat-online](https://github.com/caterpi11ar/wechat-online) - 微信聊天记录生成器，支持自定义用户信息、发送消息并实时预览聊天效果，还可以导出为高清图片。
 - [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
 - [ejacobhayes/parsecio](https://github.com/ejacobhayes/parsecio) - 🐿️ A blazing-fast, self-updating dashboard for your GitHub stars — smartly categorized, beautifully designed, and fully static with zero dependencies.
@@ -3381,6 +3429,7 @@
 
 ## others 
 
+- [liudf0716/xfrpc](https://github.com/liudf0716/xfrpc) - xfrpc 是一个轻量级的 FRP 客户端，完美兼容 frps，采用 C 语言实现，专为 OpenWRT 和物联网等资源受限系统优化设计。它针对 ROM 和 RAM 空间有限的设备，提供高效的内网穿透解决方案。xfrpc 集成了xDPI（深度包检测）功能，增强了安全性，有效防止内网穿透中因恶意嗅探导致的安全威胁，确保数据传输和网络访问的可靠保护。购买下面的链接中的服务支持我的开源
 - [yoav-melamed/serilog-sinks-asyncfile](https://github.com/yoav-melamed/serilog-sinks-asyncfile) - An advanced file sink for Serilog that writes events to files in plain text.
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Supercharged .NET server side development!
 - [Spreads/Spreads](https://github.com/Spreads/Spreads) - Series and Panels for Real-time and Exploratory Analysis of Data Streams
@@ -3396,7 +3445,7 @@
 - [AnInsomniacy/rayburst](https://github.com/AnInsomniacy/rayburst) - Redefining the open-source download manager
 - [error-or/error-or](https://github.com/error-or/error-or) - A simple, fluent discriminated union of an error or a result.
 - [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) - Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis — no manual reverse engineering needed per update. Linux 微信数据库密钥提取工具。通过 ELF静态分析自
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
 - [artiga033/ntdb_unwrap](https://github.com/artiga033/ntdb_unwrap) - 一键解密/解析 NTQQ 数据库！
 - [Zzzzzzyt/ntqq-data-merge](https://github.com/Zzzzzzyt/ntqq-data-merge) - NTQQ 聊天记录导出/合并/写入
 - [HwFee/qq-monitor](https://github.com/HwFee/qq-monitor) - QQ班级群监控脚本 - 自动提取和解密NTQQ消息，推送到服务器
@@ -3886,7 +3935,7 @@
 - [mgravell/Pipelines.WebSockets](https://github.com/mgravell/Pipelines.WebSockets) - .NET WebSocket (RFC 6455/hixie/hybi) implementation using the System.IO.Pipelines API
 - [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 - [franciscop/umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
-- [zamhown/NaturplayMath](https://github.com/zamhown/NaturplayMath) - 👨‍💻 一个基于.NET Core 3.0的高精度科学计算库
+- [zamhown/NaturplayCalculator](https://github.com/zamhown/NaturplayCalculator) - 👨‍💻 一个基于.NET Core 3.0的高精度科学计算库
 - [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
 - [Chavoshi/Unity.NetCore](https://github.com/Chavoshi/Unity.NetCore) - 
 - [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
@@ -3961,7 +4010,6 @@
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
 - [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization
 - [lamondlu/Library](https://github.com/lamondlu/Library) - A microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
-- [wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视
 - [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [Azure-Samples/active-directory-dotnet-webapp-openidconnect-aspnetcore](https://github.com/Azure-Samples/active-directory-dotnet-webapp-openidconnect-aspnetcore) - An ASP.NET Core web application that signs-in Azure AD users from a single Azure AD tenant.
@@ -4226,6 +4274,7 @@
 
 ## privacy 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -4233,6 +4282,7 @@
 
 ## productivity 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [nelson820125/jordium-gantt-vue3](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart with powerful Resource View for task scheduling and resource planning.
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -4276,6 +4326,7 @@
 
 ## pwa 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -4283,6 +4334,8 @@
 
 ## python 
 
+- [tllovesxs/wandao](https://github.com/tllovesxs/wandao) - 万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出,语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [canopen-python/canopen](https://github.com/canopen-python/canopen) - CANopen for Python
 - [Copolient/WeChatMsg](https://github.com/Copolient/WeChatMsg) - 微信聊天记录导出与分析工具
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -4437,7 +4490,8 @@
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 
 ## raspberry-pi 
 
@@ -4458,6 +4512,7 @@
 
 ## react 
 
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [Huseyinnurbaki/mocktail](https://github.com/Huseyinnurbaki/mocktail) - Free, 10.5MB, containerized, self-hosted mock server.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
@@ -4586,6 +4641,7 @@
 
 ## rest-api 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
@@ -4698,6 +4754,12 @@
 
 ## self-hosted 
 
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
+- [cropflre/nowen-note](https://github.com/cropflre/nowen-note) - 开源自托管笔记与私有知识库，支持 Markdown/富文本、AI 写作、思维导图、任务管理、全文搜索、多级笔记本和 Docker 一键部署。
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
@@ -4774,7 +4836,7 @@
 
 ## skills 
 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
@@ -4803,7 +4865,7 @@
 
 ## springboot 
 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
 - [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin) - 🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
@@ -4850,6 +4912,7 @@
 
 ## sqlite 
 
+- [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [QQBackup/sqlcipher-github-actions](https://github.com/QQBackup/sqlcipher-github-actions) - Compile SQLCipher for Windows with GitHub Actions (statically linked + dynamically linked)
 - [zompinc/efcore-extensions](https://github.com/zompinc/efcore-extensions) - Provides window (analytics) functions and binary functions for EF Core. Providers: SQL Server, SQLite, Postgres.
@@ -4939,7 +5002,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -5203,6 +5266,7 @@
 
 ## vue 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [dymproject/purest-admin](https://github.com/dymproject/purest-admin) - Purest Admin 是一套真正意义上前后端分离、深度适配企业RBAC权限体系的通用后台管理系统。依托现代化 .NET 10 技术栈、Vue3 生态前端、强大的工作流引擎，力求降低业务框架搭建门槛，实现一站式、敏捷、高可扩展的企业级后台管理平台。
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
@@ -5299,6 +5363,7 @@
 
 ## vuejs 
 
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 22, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Iden
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -5394,7 +5459,7 @@
 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
@@ -5409,7 +5474,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [wiresock/ndisapi.net](https://github.com/wiresock/ndisapi.net) - C# Interface for Windows Packet Filter
 - [LubyRuffy/ok](https://github.com/LubyRuffy/ok) - gvisor+windivert = ok
-- [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - A Windows packet filtering library that enables low-level network packet interception, inspection, and modification. Ideal for building custom firewalls, VPN solutions, intrusion detection systems, an
+- [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - C/C++ and .NET interfaces to Windows Packet Filter (WinpkFilter). Inspect, filter, modify, and inject network packets from user mode.
 - [wiresock/WFPCalloutExplorer](https://github.com/wiresock/WFPCalloutExplorer) - Simple command line tool to enumerate loaded WFP callout drivers
 - [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
